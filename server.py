@@ -1,5 +1,6 @@
 from flask import Flask, request
 from flask_restful import Api, Resource
+from flask_cors import CORS, cross_origin
 from pathlib import Path
 import tarfile
 import shutil
@@ -7,10 +8,14 @@ import shutil
 app = Flask(__name__)
 api = Api(app)
 
+cors = CORS(app)
+
 class Inbound(Resource):
+    @cross_origin()
     def get(self):
         return "Hello world"
 
+    @cross_origin()
     def post(self):
         json = request.get_json(force=True)
         data = json["data"]
