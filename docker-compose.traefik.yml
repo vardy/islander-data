@@ -1,0 +1,22 @@
+version: "3.7"
+
+services:
+  web:
+    build: .
+    restart: unless-stopped
+    networks:
+     - web
+    volumes:
+        - ./data:/web/data
+    labels:
+     - "traefik.enable=true"
+     - "traefik.http.routers.arapiles-web.rule=Host(`islands.ibpp.me`)"
+     - "traefik.http.routers.arapiles-web.entrypoints=web"
+     - "traefik.http.routers.arapiles-web.middlewares=redirect@file"
+     - "traefik.http.routers.arapiles-secured.rule=Host(`islands.ibpp.me`)"
+     - "traefik.http.routers.arapiles-secured.entrypoints=web-secured"
+     - "traefik.http.routers.arapiles-secured.tls.certresolver=mytlschallenge"
+
+networks:
+  web:
+    external: true
