@@ -21,7 +21,7 @@ class Inbound(Resource):
         data = json["data"]
         id = json["id"]
         Path("data/temp").mkdir(parents=True, exist_ok=True)
-        with open("data/temp/" + id, 'w') as file:
+        with open("data/temp/" + str(id), 'w') as file:
             file.write(data)
         return id, 200
 
