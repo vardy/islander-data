@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="islands.css?v=2">
+<link rel="stylesheet" type="text/css" href="css/islander.css?v=3">
+<title>Naoki Connolly</title>
+<style>
+body { background-color: #d8c9c1 }
+th { }
+</style>
+</head>
+<body>
+
+
+<script>
+var pageid = 'islander';
+var current_tab = '';
+var task_icon = [];
+var id = 'exxmkntgb8';
+var awake = 0;
+var given = 'Naoki';
+var chatid = 'k3m6e7m6mhmvhjvjl757';
+var thechat;
+var xhr;
+</script>
+<script src="js/islander.js?v=2.1"></script>
+
+<div id="banner">
+<div id="menubar">
+<div id="breadcrumbs"><a href="index.php" class="menu">Islands</a> &raquo; <a class="menu" href="village.php?Reading">Reading</a> <span class="crumb">&raquo; Naoki Connolly</span></div>
+<div id="menu"><a href="project.php" class="menu">Quiz 4</a> &nbsp; &nbsp;  <a href="logout.php" class="menu">Logout</a></div>
+</div>
+<div id="title">Naoki Connolly</div>
+</div>
+
+<div id="content">
+
+<div id="displayed">
+
+<div id="tabmenu">
+	<button class="lh" id="t1tab" onclick="change_tab('t1')">About</button>
+	<button class="lh" id="t2tab" onclick="change_tab('t2')">Tasks</button>
+	<button class="lh" id="t3tab" onclick="change_tab('t3')">Chat</button>
+</div>
+
+<div id="islander"><canvas id="skeleton"></canvas>
+</div>
+
+<div id="t1" class="content_tab">
+<table style="width: 100%">
+<tr><th colspan="2" style="padding-top: 0px;">Summary</th></tr>
+<tr><td colspan="2">Male</td></tr>
+<tr><td colspan="2">100 years old</td></tr>
+<tr><td colspan="2">Died in Year 306</td></tr>
+
+<tr><th colspan="2">Parents</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=tdgxvwhptn">Isobel Connolly</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=xnbm32jan6">William Morris</a></td></tr>
+
+<tr><th colspan="2">Children</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=2ke9a6b58k">Nana Connolly</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=wggwdve5rs">David Jensen</a></td></tr>
+
+<tr><th colspan="2">Contacts</th></tr>
+
+<tr><td colspan="2" id="contact" onclick="addContact();" style="cursor: pointer; color: #55c;">
+Add Naoki</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr><th>Age 0</th></tr>
+<tr><td>09/206</td><td>Born in Arcadia 303</td></tr>
+<tr><th>Age 3</th></tr>
+<tr><td>10/209</td><td>Friends with <a href="islander.php?id=lac86s9xdz">Lilja Blomgren</a></td></tr>
+<tr><td>23/209</td><td>Friends with <a href="islander.php?id=9cuktkhvse">Michael Connolly</a></td></tr>
+<tr><th>Age 4</th></tr>
+<tr><td>11/210</td><td>Friends with <a href="islander.php?id=uhnbwr2rmj">Akira Edwards</a></td></tr>
+<tr><td>16/210</td><td>Friends with <a href="islander.php?id=ftlcdvrscb">Jack Wilson</a></td></tr>
+<tr><td>21/210</td><td>No longer friends with <a href="islander.php?id=ftlcdvrscb">Jack Wilson</a></td></tr>
+<tr><td>27/210</td><td>Friends with <a href="islander.php?id=qcv4kspsma">Andrew Suzuki</a></td></tr>
+<tr><th>Age 5</th></tr>
+<tr><td>09/211</td><td>Friends with <a href="islander.php?id=vllwpnszqm">Julia McCarthy</a></td></tr>
+<tr><td>15/211</td><td>Arcadia Elementary School</td></tr>
+<tr><td>16/211</td><td>Friends with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><td>16/211</td><td>No longer friends with <a href="islander.php?id=uhnbwr2rmj">Akira Edwards</a></td></tr>
+<tr><td>03/212</td><td>Friends with <a href="islander.php?id=3vp9keklj9">Chloe Regan</a></td></tr>
+<tr><td>08/212</td><td>Moved to Akkeshi 326 with family</td></tr>
+<tr><th>Age 6</th></tr>
+<tr><td>28/212</td><td>Moved to Hayarano 152 with family</td></tr>
+<tr><td>01/213</td><td>Friends with <a href="islander.php?id=hzgjyn9ckh">Lauren Suzuki</a></td></tr>
+<tr><td>07/213</td><td>Caught V1</td></tr>
+<tr><th>Age 7</th></tr>
+<tr><td>08/214</td><td>Friends with <a href="islander.php?id=pgxkdwcfgj">Julian Solberg</a></td></tr>
+<tr><th>Age 8</th></tr>
+<tr><td>04/215</td><td>Friends with <a href="islander.php?id=n98c5kcknu">Paul Carlsen</a></td></tr>
+<tr><td>08/215</td><td>Friends with <a href="islander.php?id=34fhtrkgcx">Ryouta Watanabe</a></td></tr>
+<tr><th>Age 11</th></tr>
+<tr><td>09/217</td><td>Caught V5</td></tr>
+<tr><td>12/217</td><td>Friend <a href="islander.php?id=hzgjyn9ckh">Lauren Suzuki</a> died</td></tr>
+<tr><td>05/218</td><td>Friends with <a href="islander.php?id=f975d9dqgb">Henrik Thorn</a></td></tr>
+<tr><td>08/218</td><td>Graduated from Hayarano Elementary School</td></tr>
+<tr><th>Age 12</th></tr>
+<tr><td>15/218</td><td>Hayarano High School</td></tr>
+<tr><td>26/218</td><td>Moved to Hayarano 299 with family</td></tr>
+<tr><th>Age 13</th></tr>
+<tr><td>01/220</td><td>Dating <a href="islander.php?id=vllwpnszqm">Julia McCarthy</a></td></tr>
+<tr><th>Age 15</th></tr>
+<tr><td>24/221</td><td>No longer friends with <a href="islander.php?id=34fhtrkgcx">Ryouta Watanabe</a></td></tr>
+<tr><th>Age 16</th></tr>
+<tr><td>25/222</td><td>Friends with <a href="islander.php?id=srpj8t3qqe">Hiro Watanabe</a></td></tr>
+<tr><th>Age 17</th></tr>
+<tr><td>08/224</td><td>Graduated from Hayarano High School</td></tr>
+<tr><th>Age 18</th></tr>
+<tr><td>16/224</td><td>Left home</td></tr>
+<tr><td>16/224</td><td>Moved to Biruwa 119</td></tr>
+<tr><td>16/224</td><td>Single</td></tr>
+<tr><td>21/224</td><td>No longer friends with <a href="islander.php?id=lac86s9xdz">Lilja Blomgren</a></td></tr>
+<tr><td>27/224</td><td>Dating <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><td>04/225</td><td>Friends with <a href="islander.php?id=tuznqkhcjs">Conor Connolly</a></td></tr>
+<tr><th>Age 19</th></tr>
+<tr><td>16/225</td><td>No longer friends with <a href="islander.php?id=vllwpnszqm">Julia McCarthy</a></td></tr>
+<tr><td>19/225</td><td>Friends with <a href="islander.php?id=pw4wvzh8d3">Nicholas Price</a></td></tr>
+<tr><td>22/225</td><td><a href="islander.php?id=2ke9a6b58k">Nana Connolly</a> born</td></tr>
+<tr><td>23/225</td><td>Engaged <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><td>28/225</td><td>Moved to Reading 8 with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><th>Age 20</th></tr>
+<tr><td>10/226</td><td>Married <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><td>19/226</td><td>Moved to Akkeshi 263 with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><td>01/227</td><td><a href="islander.php?id=wggwdve5rs">David Jensen</a> born</td></tr>
+<tr><th>Age 22</th></tr>
+<tr><td>25/228</td><td>Barista</td></tr>
+<tr><td>26/228</td><td>Caught V2</td></tr>
+<tr><th>Age 27</th></tr>
+<tr><td>17/233</td><td>Caught V6</td></tr>
+<tr><td>06/234</td><td>Unemployed</td></tr>
+<tr><th>Age 28</th></tr>
+<tr><td>11/234</td><td>Barista</td></tr>
+<tr><td>12/234</td><td>Unemployed</td></tr>
+<tr><td>20/234</td><td>Barista</td></tr>
+<tr><td>21/234</td><td>Unemployed</td></tr>
+<tr><td>04/235</td><td>Barista</td></tr>
+<tr><td>05/235</td><td>Unemployed</td></tr>
+<tr><th>Age 29</th></tr>
+<tr><td>15/235</td><td>Moved to Arcadia 391 with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><td>28/235</td><td>Barista</td></tr>
+<tr><td>01/236</td><td>Unemployed</td></tr>
+<tr><td>02/236</td><td>Barista</td></tr>
+<tr><th>Age 30</th></tr>
+<tr><td>23/236</td><td>Unemployed</td></tr>
+<tr><th>Age 31</th></tr>
+<tr><td>22/237</td><td>Light smoker</td></tr>
+<tr><td>27/237</td><td>Nonsmoker</td></tr>
+<tr><th>Age 32</th></tr>
+<tr><td>08/239</td><td>Moved to Akkeshi 351 with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><th>Age 33</th></tr>
+<tr><td>21/239</td><td>Barista</td></tr>
+<tr><td>22/239</td><td>Unemployed</td></tr>
+<tr><td>24/239</td><td>Barista</td></tr>
+<tr><td>25/239</td><td>Unemployed</td></tr>
+<tr><td>26/239</td><td>Barista</td></tr>
+<tr><td>27/239</td><td>Unemployed</td></tr>
+<tr><td>28/239</td><td>Barista</td></tr>
+<tr><td>01/240</td><td>Unemployed</td></tr>
+<tr><td>03/240</td><td>Barista</td></tr>
+<tr><td>04/240</td><td>Unemployed</td></tr>
+<tr><th>Age 34</th></tr>
+<tr><td>04/241</td><td>Moved to Reading 461 with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><th>Age 35</th></tr>
+<tr><td>03/242</td><td>Moved to Reading 486 with <a href="islander.php?id=ys7axsvht6">Illona Jensen</a></td></tr>
+<tr><th>Age 37</th></tr>
+<tr><td>25/243</td><td>Father <a href="islander.php?id=xnbm32jan6">William Morris</a> died</td></tr>
+<tr><th>Age 40</th></tr>
+<tr><td>01/247</td><td>Brother <a href="islander.php?id=bhbqdk84km">Shane Hall</a> died</td></tr>
+<tr><th>Age 42</th></tr>
+<tr><td>06/249</td><td>No longer friends with <a href="islander.php?id=9cuktkhvse">Michael Connolly</a></td></tr>
+<tr><th>Age 43</th></tr>
+<tr><td>09/249</td><td>Friends with <a href="islander.php?id=zvghn6kd4c">Sven Madsen</a></td></tr>
+<tr><td>23/249</td><td>Sister <a href="islander.php?id=uuuggh6ehx">Alice Connolly</a> died</td></tr>
+<tr><th>Age 44</th></tr>
+<tr><td>14/250</td><td>Brother <a href="islander.php?id=6tqbvm5w7m">Kaito Connolly</a> died</td></tr>
+<tr><td>15/250</td><td>Moved to Arcadia 247</td></tr>
+<tr><td>15/250</td><td>University of Arcadia</td></tr>
+<tr><td>21/250</td><td>Barista</td></tr>
+<tr><td>22/250</td><td>Friend <a href="islander.php?id=pgxkdwcfgj">Julian Solberg</a> died</td></tr>
+<tr><td>23/250</td><td>Friends with <a href="islander.php?id=uy9l84rmh9">Eva Kimura</a></td></tr>
+<tr><td>01/251</td><td>Friend <a href="islander.php?id=uy9l84rmh9">Eva Kimura</a> died</td></tr>
+<tr><td>02/251</td><td>Friends with <a href="islander.php?id=dtmwhc3nac">Henrik Blomgren</a></td></tr>
+<tr><th>Age 45</th></tr>
+<tr><td>28/251</td><td>No longer friends with <a href="islander.php?id=3vp9keklj9">Chloe Regan</a></td></tr>
+<tr><th>Age 46</th></tr>
+<tr><td>18/252</td><td>Friends with <a href="islander.php?id=fg6a8vzuvf">Nathan White</a></td></tr>
+<tr><th>Age 47</th></tr>
+<tr><td>08/254</td><td>Graduated from Arcadia University</td></tr>
+<tr><td>08/254</td><td>Unemployed</td></tr>
+<tr><td>08/254</td><td>Moved to Reading 250</td></tr>
+<tr><th>Age 48</th></tr>
+<tr><td>13/254</td><td>Barista</td></tr>
+<tr><th>Age 50</th></tr>
+<tr><td>15/256</td><td>Unemployed</td></tr>
+<tr><td>02/257</td><td>No longer friends with <a href="islander.php?id=dtmwhc3nac">Henrik Blomgren</a></td></tr>
+<tr><th>Age 51</th></tr>
+<tr><td>10/257</td><td>Light smoker</td></tr>
+<tr><td>12/257</td><td>Friends with <a href="islander.php?id=c697xe6js2">Kari Carlsen</a></td></tr>
+<tr><td>16/257</td><td>Nonsmoker</td></tr>
+<tr><th>Age 52</th></tr>
+<tr><td>10/258</td><td>Light smoker</td></tr>
+<tr><td>24/258</td><td>Nonsmoker</td></tr>
+<tr><td>27/258</td><td>Friend <a href="islander.php?id=f975d9dqgb">Henrik Thorn</a> died</td></tr>
+<tr><td>06/259</td><td>Friends with <a href="islander.php?id=qbhyadp8qh">Rachel Wilson</a></td></tr>
+<tr><th>Age 55</th></tr>
+<tr><td>28/261</td><td>Mother <a href="islander.php?id=tdgxvwhptn">Isobel Connolly</a> died</td></tr>
+<tr><th>Age 56</th></tr>
+<tr><td>24/262</td><td>Light smoker</td></tr>
+<tr><td>07/263</td><td>Nonsmoker</td></tr>
+<tr><th>Age 57</th></tr>
+<tr><td>13/263</td><td>Friend <a href="islander.php?id=zvghn6kd4c">Sven Madsen</a> died</td></tr>
+<tr><th>Age 58</th></tr>
+<tr><td>15/264</td><td>Friends with <a href="islander.php?id=ml4fwauga8">Ai McCarthy</a></td></tr>
+<tr><th>Age 59</th></tr>
+<tr><td>12/265</td><td>No longer friends with <a href="islander.php?id=c697xe6js2">Kari Carlsen</a></td></tr>
+<tr><td>13/265</td><td>Friends with <a href="islander.php?id=jvuee8tlgx">Austin Brown</a></td></tr>
+<tr><td>22/265</td><td>Friend <a href="islander.php?id=ml4fwauga8">Ai McCarthy</a> died</td></tr>
+<tr><td>04/266</td><td>Friends with <a href="islander.php?id=qtwq5sll9p">Hallmar Blomgren</a></td></tr>
+<tr><th>Age 60</th></tr>
+<tr><td>23/266</td><td>Light smoker</td></tr>
+<tr><td>04/267</td><td>Nonsmoker</td></tr>
+<tr><th>Age 61</th></tr>
+<tr><td>18/267</td><td>Caught V3</td></tr>
+<tr><th>Age 62</th></tr>
+<tr><td>27/268</td><td>No longer friends with <a href="islander.php?id=srpj8t3qqe">Hiro Watanabe</a></td></tr>
+<tr><th>Age 63</th></tr>
+<tr><td>15/269</td><td>Friend <a href="islander.php?id=qcv4kspsma">Andrew Suzuki</a> died</td></tr>
+<tr><td>21/269</td><td>Friends with <a href="islander.php?id=l3yltv6nrd">Jacob Brown</a></td></tr>
+<tr><th>Age 64</th></tr>
+<tr><td>19/270</td><td>Friends with <a href="islander.php?id=khnnaxcrd2">Eva Price</a></td></tr>
+<tr><th>Age 65</th></tr>
+<tr><td>12/271</td><td>Friend <a href="islander.php?id=n98c5kcknu">Paul Carlsen</a> died</td></tr>
+<tr><td>16/271</td><td>Friends with <a href="islander.php?id=kqa7844bm4">Tomas Jensen</a></td></tr>
+<tr><th>Age 68</th></tr>
+<tr><td>21/274</td><td>No longer friends with <a href="islander.php?id=khnnaxcrd2">Eva Price</a></td></tr>
+<tr><th>Age 69</th></tr>
+<tr><td>17/275</td><td>Son <a href="islander.php?id=wggwdve5rs">David Jensen</a> died</td></tr>
+<tr><td>19/275</td><td>Friends with <a href="islander.php?id=993jwnkgbc">Mizuki Yamada</a></td></tr>
+<tr><th>Age 70</th></tr>
+<tr><td>10/276</td><td>Light smoker</td></tr>
+<tr><td>13/276</td><td>Nonsmoker</td></tr>
+<tr><th>Age 71</th></tr>
+<tr><td>14/277</td><td>No longer friends with <a href="islander.php?id=kqa7844bm4">Tomas Jensen</a></td></tr>
+<tr><td>21/277</td><td>Friends with <a href="islander.php?id=c4cf4ey52u">Sho Sato</a></td></tr>
+<tr><th>Age 73</th></tr>
+<tr><td>19/279</td><td>Light smoker</td></tr>
+<tr><td>05/280</td><td>Nonsmoker</td></tr>
+<tr><th>Age 78</th></tr>
+<tr><td>24/284</td><td>No longer friends with <a href="islander.php?id=fg6a8vzuvf">Nathan White</a></td></tr>
+<tr><td>01/285</td><td>Light smoker</td></tr>
+<tr><td>05/285</td><td>Friends with <a href="islander.php?id=44l2qrdcyx">Evan Jackson</a></td></tr>
+<tr><th>Age 79</th></tr>
+<tr><td>16/285</td><td>Friend <a href="islander.php?id=c4cf4ey52u">Sho Sato</a> died</td></tr>
+<tr><td>17/285</td><td>Nonsmoker</td></tr>
+<tr><td>27/285</td><td>Friends with <a href="islander.php?id=9dn3cnqcgv">Ryouta Jackson</a></td></tr>
+<tr><td>28/285</td><td>Friend <a href="islander.php?id=44l2qrdcyx">Evan Jackson</a> died</td></tr>
+<tr><th>Age 80</th></tr>
+<tr><td>10/286</td><td>Friends with <a href="islander.php?id=9mjdgr8peq">Leah Yamada</a></td></tr>
+<tr><td>06/287</td><td>Friend <a href="islander.php?id=pw4wvzh8d3">Nicholas Price</a> died</td></tr>
+<tr><th>Age 81</th></tr>
+<tr><td>12/287</td><td>Friends with <a href="islander.php?id=fg4gn3hbu2">Kieran Yamada</a></td></tr>
+<tr><th>Age 82</th></tr>
+<tr><td>26/288</td><td>Friend <a href="islander.php?id=993jwnkgbc">Mizuki Yamada</a> died</td></tr>
+<tr><td>04/289</td><td>Friends with <a href="islander.php?id=4gcqmhfl7z">Rachel Yamada</a></td></tr>
+<tr><th>Age 83</th></tr>
+<tr><td>08/290</td><td>Friend <a href="islander.php?id=l3yltv6nrd">Jacob Brown</a> died</td></tr>
+<tr><th>Age 84</th></tr>
+<tr><td>20/290</td><td>Friends with <a href="islander.php?id=tmxsjrkvj2">Adam Connolly</a></td></tr>
+<tr><th>Age 86</th></tr>
+<tr><td>18/292</td><td>Friend <a href="islander.php?id=jvuee8tlgx">Austin Brown</a> died</td></tr>
+<tr><td>02/293</td><td>Friends with <a href="islander.php?id=2agj2qx2zs">Ryan Watanabe</a></td></tr>
+<tr><th>Age 87</th></tr>
+<tr><td>24/293</td><td>Friends with <a href="islander.php?id=hr4c49uupd">Takahiro Morris</a></td></tr>
+<tr><td>24/293</td><td>Friend <a href="islander.php?id=9dn3cnqcgv">Ryouta Jackson</a> died</td></tr>
+<tr><th>Age 88</th></tr>
+<tr><td>11/294</td><td>No longer friends with <a href="islander.php?id=qtwq5sll9p">Hallmar Blomgren</a></td></tr>
+<tr><td>12/294</td><td>Light smoker</td></tr>
+<tr><td>15/294</td><td>Friends with <a href="islander.php?id=v2heu4krhh">Masa Yamada</a></td></tr>
+<tr><td>17/294</td><td>Nonsmoker</td></tr>
+<tr><td>02/295</td><td>Friend <a href="islander.php?id=tmxsjrkvj2">Adam Connolly</a> died</td></tr>
+<tr><td>03/295</td><td>Friends with <a href="islander.php?id=9gdbpr58wj">Raphael Lund</a></td></tr>
+<tr><th>Age 92</th></tr>
+<tr><td>03/299</td><td>Friend <a href="islander.php?id=fg4gn3hbu2">Kieran Yamada</a> died</td></tr>
+<tr><th>Age 93</th></tr>
+<tr><td>18/299</td><td>Friends with <a href="islander.php?id=mrnn4fks53">Malena Blomgren</a></td></tr>
+<tr><td>26/299</td><td>Friend <a href="islander.php?id=tuznqkhcjs">Conor Connolly</a> died</td></tr>
+<tr><td>02/300</td><td>Friend <a href="islander.php?id=qbhyadp8qh">Rachel Wilson</a> died</td></tr>
+<tr><td>02/300</td><td>Friends with <a href="islander.php?id=fmsjg5fey5">Jun Moore</a></td></tr>
+<tr><td>03/300</td><td>Friends with <a href="islander.php?id=ejrawt2fzs">Nathan Collins</a></td></tr>
+<tr><th>Age 97</th></tr>
+<tr><td>28/303</td><td>Friend <a href="islander.php?id=v2heu4krhh">Masa Yamada</a> died</td></tr>
+<tr><td>05/304</td><td>Friends with <a href="islander.php?id=5lcqjr2mkz">Taylor Moore</a></td></tr>
+<tr><th>Age 98</th></tr>
+<tr><td>21/304</td><td>Light smoker</td></tr>
+<tr><td>02/305</td><td>Nonsmoker</td></tr>
+<tr><td>05/305</td><td>Light smoker</td></tr>
+<tr><td>07/305</td><td>Prostate cancer</td></tr>
+<tr><th>Age 99</th></tr>
+<tr><td>09/305</td><td>Nonsmoker</td></tr>
+<tr><td>13/305</td><td>Friend <a href="islander.php?id=9mjdgr8peq">Leah Yamada</a> died</td></tr>
+<tr><td>17/305</td><td>Wife <a href="islander.php?id=ys7axsvht6">Illona Jensen</a> died</td></tr>
+<tr><td>26/305</td><td>Friends with <a href="islander.php?id=uxnnn52apn">Johanna Thorn</a></td></tr>
+<tr><th>Age 100</th></tr>
+<tr><td>12/306</td><td>Died from prostate cancer</td></tr>
+</table>
+</div>
+
+<div id="t2" class="content_tab">
+<script>
+var now = new Date();
+var delta = now.getTime() - 1603101729318.6;
+var progress = [];
+var consented = 0;
+</script>
+
+<div id="obtain"><a href="javascript:getConsent()">Obtain consent from Naoki's ghost</a>
+</div>
+<div id="detailbox" class="taskresult" style="display: none;"><canvas id="progress"></canvas><p id="detail"></p>
+</div>
+<div id="task_menu" style="display: none">
+<div class="submenu" onclick="toggle('physiol');"><img class="submenu" src="images/icons/physiology.png"/>Physiology</div>
+<div class="submenutasks" id="tasksphysiol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('height'); return false;">Height</span></div>
+</div>
+<div class="submenu" onclick="toggle('blood');"><img class="submenu" src="images/icons/blood.png"/>Blood Tests</div>
+<div class="submenutasks" id="tasksblood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodtype'); return false;">Blood Type</span></div>
+<div class="task"><span class="task" onclick="startTask('genes1'); return false;">Gene Array (Chromosome A)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes2'); return false;">Gene Array (Chromosome B)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes3'); return false;">Gene Array (Combined)</span></div>
+</div>
+</div>
+
+
+</div>
+
+
+
+<div id="t3" class="content_tab">
+
+<div id="conversation">
+</div>
+
+<div id="userinput" style="display: none">
+<input type="text" id="chatbox" autofocus="autofocus" autocomplete="off" size="40" maxlength="120" onkeydown="if (event.keyCode == 13) dochat();"/>
+<button type="submit" style="display: block; margin-top: 10px;" onclick="dochat();">Chat</button>
+</div>
+
+
+<p id="idetail">Naoki is currently unable to chat.</p>
+
+</div>
+
+</div>
+
+</div>
+<script src="js/splines.js?v=2"></script>
+<script src="js/boney-data.js?v=2"></script>
+<script src="js/boney.js?v=2"></script>
+<script src="js/progress.js?v=2"></script>
+<script>
+var available = 1;
+if (typeof(Storage) == "undefined") {
+	change_tab('t1');
+} else if (sessionStorage.getItem( pageid+'tab' ) == null) {
+	change_tab('t1');
+} else {
+	change_tab( sessionStorage.getItem( pageid+'tab' ) );
+}
+
+var islander = {'blink': 'ME1B', 'skincolour': '#F4DDCB', 'head': 'H6M', 'hair': 'MH3', 'eyecolour': '#946536', 'hr': 0.33300000000000002, 'top': ['GM', 'GMH', 0.33300000000000002], 'hw': 1.0529999999999999, 'eyes': 'ME1', 'glasses': 'G1', 'sad': 'M1S', 'topcolour': '#eeeeee', 'nose': 'MN3', 'skin': ['M', 'MH', 0.33300000000000002], 'haircolour': '#eeecd5', 'happy': 'M1', 'brows': 'EB3', 'pixels': 523.0, 'ears': 'Ears1'};
+islander.id = 'exxmkntgb8';
+islander.name = 'Naoki';
+islander.sex = 'Male';
+islander.alive = 0;
+islander.mood = 'sad';
+islander.asleep = 0;
+boney['H'].angle = 0;
+drawSkeleton();
+window.orientationchange = function () { drawSkeleton() };
+window.onresize = function () { drawSkeleton() };
+</script>
+
+</body>

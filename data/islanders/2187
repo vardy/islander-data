@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="islands.css?v=2">
+<link rel="stylesheet" type="text/css" href="css/islander.css?v=3">
+<title>Pierrette Reynaud</title>
+<style>
+body { background-color: #d8c9c1 }
+th { }
+</style>
+</head>
+<body>
+
+
+<script>
+var pageid = 'islander';
+var current_tab = '';
+var task_icon = [];
+var id = 'sz6wf45wh2';
+var awake = 0;
+var given = 'Pierrette';
+var chatid = 'b6phznpwv8je2utr9jea';
+var thechat;
+var xhr;
+</script>
+<script src="js/islander.js?v=2.1"></script>
+
+<div id="banner">
+<div id="menubar">
+<div id="breadcrumbs"><a href="index.php" class="menu">Islands</a> &raquo; <a class="menu" href="village.php?Reading">Reading</a> <span class="crumb">&raquo; Pierrette Reynaud</span></div>
+<div id="menu"><a href="project.php" class="menu">Quiz 4</a> &nbsp; &nbsp;  <a href="logout.php" class="menu">Logout</a></div>
+</div>
+<div id="title">Pierrette Reynaud</div>
+</div>
+
+<div id="content">
+
+<div id="displayed">
+
+<div id="tabmenu">
+	<button class="lh" id="t1tab" onclick="change_tab('t1')">About</button>
+	<button class="lh" id="t2tab" onclick="change_tab('t2')">Tasks</button>
+	<button class="lh" id="t3tab" onclick="change_tab('t3')">Chat</button>
+</div>
+
+<div id="islander"><canvas id="skeleton"></canvas>
+</div>
+
+<div id="t1" class="content_tab">
+<table style="width: 100%">
+<tr><th colspan="2" style="padding-top: 0px;">Summary</th></tr>
+<tr><td colspan="2">Female</td></tr>
+<tr><td colspan="2">40 years old</td></tr>
+<tr><td colspan="2">Died in Year 306</td></tr>
+
+
+<tr><th colspan="2">Children</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=fdxmpvnulr">Laurent Roussel</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=akthbsxb6m">Daniele Roussel</a></td></tr>
+
+<tr><th colspan="2">Contacts</th></tr>
+
+<tr><td colspan="2" id="contact" onclick="addContact();" style="cursor: pointer; color: #55c;">
+Add Pierrette</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr><th>Age 0</th></tr>
+<tr><td>01/266</td><td>Born in Montagnes Perdues</td></tr>
+<tr><th>Age 34</th></tr>
+<tr><td>01/300</td><td>Arrived in Kinsale 202</td></tr>
+<tr><td>03/300</td><td>Light smoker</td></tr>
+<tr><td>06/300</td><td>Friends with <a href="islander.php?id=e3cm7ff9rd">Daniele Coulon</a></td></tr>
+<tr><td>07/300</td><td>Moving to find work </td></tr>
+<tr><td>07/300</td><td>Moved to Reading 1360</td></tr>
+<tr><td>12/300</td><td>Nonsmoker</td></tr>
+<tr><td>13/300</td><td>Carpenter</td></tr>
+<tr><th>Age 35</th></tr>
+<tr><td>03/301</td><td>Friends with <a href="islander.php?id=64xfat4944">Hilke Ernst</a></td></tr>
+<tr><td>08/301</td><td>Caught V1</td></tr>
+<tr><td>20/301</td><td>Light smoker</td></tr>
+<tr><td>28/301</td><td>Nonsmoker</td></tr>
+<tr><th>Age 36</th></tr>
+<tr><td>04/302</td><td>Light smoker</td></tr>
+<tr><td>05/302</td><td>Nonsmoker</td></tr>
+<tr><td>17/302</td><td>Friends with <a href="islander.php?id=a866ashlqp">Kaito Jones</a></td></tr>
+<tr><th>Age 37</th></tr>
+<tr><td>09/303</td><td>Friends with <a href="islander.php?id=zcldtlb552">Rodrigue Lopez</a></td></tr>
+<tr><td>10/303</td><td>Light smoker</td></tr>
+<tr><td>12/303</td><td>Nonsmoker</td></tr>
+<tr><td>13/303</td><td>Friends with <a href="islander.php?id=lb59w432w5">Agathe Bailly</a></td></tr>
+<tr><th>Age 40</th></tr>
+<tr><td>04/306</td><td>No longer friends with <a href="islander.php?id=a866ashlqp">Kaito Jones</a></td></tr>
+<tr><td>12/306</td><td>Died from heart attack</td></tr>
+</table>
+</div>
+
+<div id="t2" class="content_tab">
+<script>
+var now = new Date();
+var delta = now.getTime() - 1603101763753.9;
+var progress = [];
+var consented = 0;
+</script>
+
+<div id="obtain"><a href="javascript:getConsent()">Obtain consent from Pierrette's ghost</a>
+</div>
+<div id="detailbox" class="taskresult" style="display: none;"><canvas id="progress"></canvas><p id="detail"></p>
+</div>
+<div id="task_menu" style="display: none">
+<div class="submenu" onclick="toggle('physiol');"><img class="submenu" src="images/icons/physiology.png"/>Physiology</div>
+<div class="submenutasks" id="tasksphysiol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('height'); return false;">Height</span></div>
+</div>
+<div class="submenu" onclick="toggle('blood');"><img class="submenu" src="images/icons/blood.png"/>Blood Tests</div>
+<div class="submenutasks" id="tasksblood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodtype'); return false;">Blood Type</span></div>
+<div class="task"><span class="task" onclick="startTask('genes1'); return false;">Gene Array (Chromosome A)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes2'); return false;">Gene Array (Chromosome B)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes3'); return false;">Gene Array (Combined)</span></div>
+</div>
+</div>
+
+
+</div>
+
+
+
+<div id="t3" class="content_tab">
+
+<div id="conversation">
+</div>
+
+<div id="userinput" style="display: none">
+<input type="text" id="chatbox" autofocus="autofocus" autocomplete="off" size="40" maxlength="120" onkeydown="if (event.keyCode == 13) dochat();"/>
+<button type="submit" style="display: block; margin-top: 10px;" onclick="dochat();">Chat</button>
+</div>
+
+
+<p id="idetail">Pierrette is currently unable to chat.</p>
+
+</div>
+
+</div>
+
+</div>
+<script src="js/splines.js?v=2"></script>
+<script src="js/boney-data.js?v=2"></script>
+<script src="js/boney.js?v=2"></script>
+<script src="js/progress.js?v=2"></script>
+<script>
+var available = 1;
+if (typeof(Storage) == "undefined") {
+	change_tab('t1');
+} else if (sessionStorage.getItem( pageid+'tab' ) == null) {
+	change_tab('t1');
+} else {
+	change_tab( sessionStorage.getItem( pageid+'tab' ) );
+}
+
+var islander = {'blink': 'FE2B', 'skincolour': '#F4DDCB', 'head': 'H7F', 'hair': 'FH16', 'eyecolour': '#597EBC', 'hr': 0.16700000000000001, 'top': ['GF', 'GFH', 0.66700000000000004], 'eyes': 'FE2', 'hw': 1.0, 'sad': 'M2S', 'topcolour': '#eeeeee', 'nose': 'FN11', 'skin': ['F', 'FH', 0.66700000000000004], 'haircolour': '#be4f23', 'happy': 'M2', 'brows': 'EB2', 'pixels': 455.0, 'ears': 'Ears1'};
+islander.id = 'sz6wf45wh2';
+islander.name = 'Pierrette';
+islander.sex = 'Female';
+islander.alive = 0;
+islander.mood = 'sad';
+islander.asleep = 0;
+boney['H'].angle = 0;
+drawSkeleton();
+window.orientationchange = function () { drawSkeleton() };
+window.onresize = function () { drawSkeleton() };
+</script>
+
+</body>

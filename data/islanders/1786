@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="islands.css?v=2">
+<link rel="stylesheet" type="text/css" href="css/islander.css?v=3">
+<title>Andrew Sato</title>
+<style>
+body { background-color: #d8c9c1 }
+th { }
+</style>
+</head>
+<body>
+
+
+<script>
+var pageid = 'islander';
+var current_tab = '';
+var task_icon = [];
+var id = 'v9d5fnqv8u';
+var awake = 0;
+var given = 'Andrew';
+var chatid = 'ald2gvdepunv89r9nplf';
+var thechat;
+var xhr;
+</script>
+<script src="js/islander.js?v=2.1"></script>
+
+<div id="banner">
+<div id="menubar">
+<div id="breadcrumbs"><a href="index.php" class="menu">Islands</a> &raquo; <a class="menu" href="village.php?Reading">Reading</a> <span class="crumb">&raquo; Andrew Sato</span></div>
+<div id="menu"><a href="project.php" class="menu">Quiz 4</a> &nbsp; &nbsp;  <a href="logout.php" class="menu">Logout</a></div>
+</div>
+<div id="title">Andrew Sato</div>
+</div>
+
+<div id="content">
+
+<div id="displayed">
+
+<div id="tabmenu">
+	<button class="lh" id="t1tab" onclick="change_tab('t1')">About</button>
+	<button class="lh" id="t2tab" onclick="change_tab('t2')">Tasks</button>
+	<button class="lh" id="t3tab" onclick="change_tab('t3')">Chat</button>
+</div>
+
+<div id="islander"><canvas id="skeleton"></canvas>
+</div>
+
+<div id="t1" class="content_tab">
+<table style="width: 100%">
+<tr><th colspan="2" style="padding-top: 0px;">Summary</th></tr>
+<tr><td colspan="2">Male</td></tr>
+<tr><td colspan="2">77 years old</td></tr>
+<tr><td colspan="2">Died in Year 306</td></tr>
+
+<tr><th colspan="2">Parents</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=z7yv22rvuv">Madison Morris</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=cavm5t37gs">Patrick Sato</a></td></tr>
+
+<tr><th colspan="2">Children</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=vw2mtfdf6f">Masa Collins</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=t5fvhezs7v">Ayano Sato</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=yxq4xyt283">Justin Collins</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=6mhckr6pgs">Ryan Sato</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=xga2vqg4d7">Ragnar Thorn</a></td></tr>
+
+<tr><th colspan="2">Contacts</th></tr>
+
+<tr><td colspan="2" id="contact" onclick="addContact();" style="cursor: pointer; color: #55c;">
+Add Andrew</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr><th>Age 0</th></tr>
+<tr><td>24/228</td><td>Born in Nelson 73</td></tr>
+<tr><td>06/229</td><td>Moved to Reading 382 with family</td></tr>
+<tr><th>Age 4</th></tr>
+<tr><td>15/233</td><td>Friends with <a href="islander.php?id=3r4z7k82aj">Viktoria Thorn</a></td></tr>
+<tr><td>21/233</td><td>Caught V6</td></tr>
+<tr><th>Age 5</th></tr>
+<tr><td>15/234</td><td>Reading Elementary School</td></tr>
+<tr><th>Age 8</th></tr>
+<tr><td>20/237</td><td>Friends with <a href="islander.php?id=psw32fmsbt">Kelda Carlsen</a></td></tr>
+<tr><th>Age 9</th></tr>
+<tr><td>05/238</td><td>Friends with <a href="islander.php?id=347jnpal25">Siobhan Collins</a></td></tr>
+<tr><td>10/238</td><td>Friends with <a href="islander.php?id=nglvvms8l4">Vanessa Sorensen</a></td></tr>
+<tr><td>15/238</td><td>Moved to Arcadia 394 with family</td></tr>
+<tr><th>Age 10</th></tr>
+<tr><td>21/239</td><td>Friends with <a href="islander.php?id=cufcgmmh9f">Harold Sorensen</a></td></tr>
+<tr><th>Age 11</th></tr>
+<tr><td>24/239</td><td>Friends with <a href="islander.php?id=6lwmc8nzp5">Sarah Sorensen</a></td></tr>
+<tr><td>04/240</td><td>No longer friends with <a href="islander.php?id=cufcgmmh9f">Harold Sorensen</a></td></tr>
+<tr><td>07/240</td><td>No longer friends with <a href="islander.php?id=psw32fmsbt">Kelda Carlsen</a></td></tr>
+<tr><td>13/240</td><td>Friends with <a href="islander.php?id=qzw5nf2q96">Liam Jones</a></td></tr>
+<tr><th>Age 12</th></tr>
+<tr><td>28/240</td><td>Friends with <a href="islander.php?id=cufcgmmh9f">Harold Sorensen</a></td></tr>
+<tr><td>08/241</td><td>Graduated from Arcadia Elementary School</td></tr>
+<tr><td>11/241</td><td>Friends with <a href="islander.php?id=kurdllzdkm">Ava White</a></td></tr>
+<tr><td>13/241</td><td>Friends with <a href="islander.php?id=luhgzbd5y6">Hans Blomgren</a></td></tr>
+<tr><td>15/241</td><td>Arcadia High School</td></tr>
+<tr><th>Age 13</th></tr>
+<tr><td>07/242</td><td>Friends with <a href="islander.php?id=3juzy97uqq">Samantha McCarthy</a></td></tr>
+<tr><td>09/242</td><td>Dating <a href="islander.php?id=6lwmc8nzp5">Sarah Sorensen</a></td></tr>
+<tr><td>22/242</td><td>Friends with <a href="islander.php?id=l6de439zez">Jacob Connolly</a></td></tr>
+<tr><th>Age 14</th></tr>
+<tr><td>26/242</td><td>No longer friends with <a href="islander.php?id=cufcgmmh9f">Harold Sorensen</a></td></tr>
+<tr><td>02/243</td><td>Friends with <a href="islander.php?id=j4mhv6xm4g">Hannah Brown</a></td></tr>
+<tr><th>Age 15</th></tr>
+<tr><td>25/243</td><td>No longer friends with <a href="islander.php?id=nglvvms8l4">Vanessa Sorensen</a></td></tr>
+<tr><td>27/243</td><td>Friends with <a href="islander.php?id=z4n2md5kxb">Katie Morris</a></td></tr>
+<tr><td>01/244</td><td>Caught V1</td></tr>
+<tr><th>Age 18</th></tr>
+<tr><td>27/246</td><td>No longer friends with <a href="islander.php?id=kurdllzdkm">Ava White</a></td></tr>
+<tr><td>06/247</td><td>Girlfriend <a href="islander.php?id=6lwmc8nzp5">Sarah Sorensen</a> died</td></tr>
+<tr><td>08/247</td><td>Graduated from Arcadia High School</td></tr>
+<tr><td>08/247</td><td>Dating <a href="islander.php?id=347jnpal25">Siobhan Collins</a></td></tr>
+<tr><td>14/247</td><td>Friends with <a href="islander.php?id=qk4g3tshjp">Matthew Connolly</a></td></tr>
+<tr><th>Age 19</th></tr>
+<tr><td>28/247</td><td>Left home</td></tr>
+<tr><td>28/247</td><td>Moved to Reading 241</td></tr>
+<tr><td>28/247</td><td>Brewer</td></tr>
+<tr><td>04/248</td><td><a href="islander.php?id=vw2mtfdf6f">Masa Collins</a> born</td></tr>
+<tr><td>04/248</td><td>Engaged <a href="islander.php?id=347jnpal25">Siobhan Collins</a></td></tr>
+<tr><td>20/248</td><td>Married <a href="islander.php?id=347jnpal25">Siobhan Collins</a></td></tr>
+<tr><th>Age 20</th></tr>
+<tr><td>26/248</td><td>Friends with <a href="islander.php?id=3ukbydzl4r">Thurston Pallesen</a></td></tr>
+<tr><th>Age 22</th></tr>
+<tr><td>18/251</td><td><a href="islander.php?id=t5fvhezs7v">Ayano Sato</a> born</td></tr>
+<tr><th>Age 24</th></tr>
+<tr><td>12/253</td><td><a href="islander.php?id=yxq4xyt283">Justin Collins</a> born</td></tr>
+<tr><th>Age 27</th></tr>
+<tr><td>04/256</td><td><a href="islander.php?id=6mhckr6pgs">Ryan Sato</a> born</td></tr>
+<tr><th>Age 28</th></tr>
+<tr><td>14/257</td><td>Son <a href="islander.php?id=vw2mtfdf6f">Masa Collins</a> died</td></tr>
+<tr><th>Age 29</th></tr>
+<tr><td>09/258</td><td>Light smoker</td></tr>
+<tr><td>13/258</td><td>Mother <a href="islander.php?id=z7yv22rvuv">Madison Morris</a> died</td></tr>
+<tr><td>16/258</td><td>Moderate smoker</td></tr>
+<tr><td>20/258</td><td>Heavy smoker</td></tr>
+<tr><th>Age 30</th></tr>
+<tr><td>08/259</td><td>Moderate smoker</td></tr>
+<tr><td>20/259</td><td>Light smoker</td></tr>
+<tr><td>21/259</td><td>Moderate smoker</td></tr>
+<tr><th>Age 31</th></tr>
+<tr><td>24/259</td><td>Light smoker</td></tr>
+<tr><td>04/260</td><td>Moderate smoker</td></tr>
+<tr><td>20/260</td><td>Heavy smoker</td></tr>
+<tr><th>Age 32</th></tr>
+<tr><td>25/260</td><td>Moderate smoker</td></tr>
+<tr><td>01/261</td><td>Heavy smoker</td></tr>
+<tr><th>Age 33</th></tr>
+<tr><td>25/261</td><td><a href="islander.php?id=xga2vqg4d7">Ragnar Thorn</a> born</td></tr>
+<tr><td>20/262</td><td>Moderate smoker</td></tr>
+<tr><th>Age 34</th></tr>
+<tr><td>26/262</td><td>Light smoker</td></tr>
+<tr><td>12/263</td><td>Nonsmoker</td></tr>
+<tr><th>Age 35</th></tr>
+<tr><td>02/264</td><td>Caught V5</td></tr>
+<tr><td>03/264</td><td>Viral infection admission</td></tr>
+<tr><td>09/264</td><td>Discharged </td></tr>
+<tr><td>21/264</td><td>Light smoker</td></tr>
+<tr><td>23/264</td><td>Moderate smoker</td></tr>
+<tr><th>Age 36</th></tr>
+<tr><td>05/265</td><td>Light smoker</td></tr>
+<tr><td>09/265</td><td>Nonsmoker</td></tr>
+<tr><td>15/265</td><td>Light smoker</td></tr>
+<tr><td>18/265</td><td>Nonsmoker</td></tr>
+<tr><th>Age 37</th></tr>
+<tr><td>15/266</td><td>Unemployed</td></tr>
+<tr><td>15/266</td><td>Moved to Arcadia 276 with <a href="islander.php?id=347jnpal25">Siobhan Collins</a></td></tr>
+<tr><td>21/266</td><td>Light smoker</td></tr>
+<tr><th>Age 38</th></tr>
+<tr><td>02/267</td><td>Caught V3</td></tr>
+<tr><td>09/267</td><td>Nonsmoker</td></tr>
+<tr><th>Age 39</th></tr>
+<tr><td>24/267</td><td>Light smoker</td></tr>
+<tr><td>06/268</td><td>Nonsmoker</td></tr>
+<tr><td>09/268</td><td>Light smoker</td></tr>
+<tr><td>17/268</td><td>Nonsmoker</td></tr>
+<tr><th>Age 40</th></tr>
+<tr><td>19/269</td><td>Light smoker</td></tr>
+<tr><th>Age 41</th></tr>
+<tr><td>08/270</td><td>Moved to Reading 393 with <a href="islander.php?id=347jnpal25">Siobhan Collins</a></td></tr>
+<tr><td>09/270</td><td>Moderate smoker</td></tr>
+<tr><td>17/270</td><td>Light smoker</td></tr>
+<tr><th>Age 42</th></tr>
+<tr><td>03/271</td><td>Nonsmoker</td></tr>
+<tr><th>Age 43</th></tr>
+<tr><td>24/271</td><td>Light smoker</td></tr>
+<tr><td>27/271</td><td>Moderate smoker</td></tr>
+<tr><td>05/272</td><td>Heavy smoker</td></tr>
+<tr><td>08/272</td><td>Moderate smoker</td></tr>
+<tr><td>10/272</td><td>Heavy smoker</td></tr>
+<tr><td>12/272</td><td>Moderate smoker</td></tr>
+<tr><td>19/272</td><td>Light smoker</td></tr>
+<tr><td>21/272</td><td>Moderate smoker</td></tr>
+<tr><td>23/272</td><td>Light smoker</td></tr>
+<tr><th>Age 44</th></tr>
+<tr><td>26/272</td><td>Nonsmoker</td></tr>
+<tr><td>10/273</td><td>No longer friends with <a href="islander.php?id=3ukbydzl4r">Thurston Pallesen</a></td></tr>
+<tr><th>Age 45</th></tr>
+<tr><td>07/274</td><td>Light smoker</td></tr>
+<tr><td>10/274</td><td>Moderate smoker</td></tr>
+<tr><td>12/274</td><td>Heavy smoker</td></tr>
+<tr><td>14/274</td><td>Friends with <a href="islander.php?id=u6z6d4spd3">Conor McCarthy</a></td></tr>
+<tr><td>21/274</td><td>Moderate smoker</td></tr>
+<tr><th>Age 46</th></tr>
+<tr><td>08/275</td><td>Light smoker</td></tr>
+<tr><td>13/275</td><td>Nonsmoker</td></tr>
+<tr><th>Age 47</th></tr>
+<tr><td>15/276</td><td>Moved to Arcadia 307</td></tr>
+<tr><td>15/276</td><td>University of Arcadia</td></tr>
+<tr><td>19/276</td><td>Friend <a href="islander.php?id=3r4z7k82aj">Viktoria Thorn</a> died</td></tr>
+<tr><td>21/276</td><td>Friends with <a href="islander.php?id=ygp9unrje8">Hanne Carlsen</a></td></tr>
+<tr><th>Age 51</th></tr>
+<tr><td>08/280</td><td>Graduated from University of Arcadia</td></tr>
+<tr><td>08/280</td><td>Moved to Reading 290</td></tr>
+<tr><td>15/280</td><td>Brewer</td></tr>
+<tr><td>17/280</td><td>No longer friends with <a href="islander.php?id=z4n2md5kxb">Katie Morris</a></td></tr>
+<tr><td>18/280</td><td>Friends with <a href="islander.php?id=66ds59tu4c">Marie Eklund</a></td></tr>
+<tr><th>Age 54</th></tr>
+<tr><td>15/283</td><td>Friend <a href="islander.php?id=j4mhv6xm4g">Hannah Brown</a> died</td></tr>
+<tr><td>19/283</td><td>Light smoker</td></tr>
+<tr><th>Age 55</th></tr>
+<tr><td>02/284</td><td>Friends with <a href="islander.php?id=rv95blt7nd">Katie Moore</a></td></tr>
+<tr><td>13/284</td><td>Nonsmoker</td></tr>
+<tr><th>Age 57</th></tr>
+<tr><td>23/286</td><td>Son <a href="islander.php?id=yxq4xyt283">Justin Collins</a> died</td></tr>
+<tr><th>Age 59</th></tr>
+<tr><td>09/288</td><td>Father <a href="islander.php?id=cavm5t37gs">Patrick Sato</a> died</td></tr>
+<tr><th>Age 60</th></tr>
+<tr><td>24/288</td><td>Retired</td></tr>
+<tr><th>Age 61</th></tr>
+<tr><td>07/290</td><td>No longer friends with <a href="islander.php?id=3juzy97uqq">Samantha McCarthy</a></td></tr>
+<tr><td>12/290</td><td>Light smoker</td></tr>
+<tr><td>16/290</td><td>Nonsmoker</td></tr>
+<tr><th>Age 62</th></tr>
+<tr><td>17/291</td><td>Friends with <a href="islander.php?id=uay9hxlx8v">Zachary Moore</a></td></tr>
+<tr><th>Age 65</th></tr>
+<tr><td>27/293</td><td>No longer friends with <a href="islander.php?id=u6z6d4spd3">Conor McCarthy</a></td></tr>
+<tr><td>08/294</td><td>Brother <a href="islander.php?id=x745yvnfn6">Desmond Morris</a> died</td></tr>
+<tr><th>Age 66</th></tr>
+<tr><td>24/294</td><td>Friends with <a href="islander.php?id=er9gshj72v">Amy Brown</a></td></tr>
+<tr><td>18/295</td><td>Friend <a href="islander.php?id=uay9hxlx8v">Zachary Moore</a> died</td></tr>
+<tr><th>Age 67</th></tr>
+<tr><td>22/296</td><td>Friends with <a href="islander.php?id=hmvlf97n5x">Nina Bager</a></td></tr>
+<tr><th>Age 69</th></tr>
+<tr><td>12/298</td><td>Light smoker</td></tr>
+<tr><th>Age 70</th></tr>
+<tr><td>26/298</td><td>Nonsmoker</td></tr>
+<tr><td>17/299</td><td>Friend <a href="islander.php?id=66ds59tu4c">Marie Eklund</a> died</td></tr>
+<tr><th>Age 71</th></tr>
+<tr><td>28/299</td><td>Friend <a href="islander.php?id=er9gshj72v">Amy Brown</a> died</td></tr>
+<tr><td>10/300</td><td>Friends with <a href="islander.php?id=6kykac23n8">Kenta Connolly</a></td></tr>
+<tr><td>13/300</td><td>No longer friends with <a href="islander.php?id=ygp9unrje8">Hanne Carlsen</a></td></tr>
+<tr><th>Age 72</th></tr>
+<tr><td>25/300</td><td>Friends with <a href="islander.php?id=aw244gurgy">Lea Solberg</a></td></tr>
+<tr><td>28/300</td><td>Friends with <a href="islander.php?id=wte4tj9wad">Arvid Sorensen</a></td></tr>
+<tr><th>Age 73</th></tr>
+<tr><td>15/302</td><td>Light smoker</td></tr>
+<tr><td>18/302</td><td>Nonsmoker</td></tr>
+<tr><th>Age 74</th></tr>
+<tr><td>01/303</td><td>Light smoker</td></tr>
+<tr><td>04/303</td><td>Moderate smoker</td></tr>
+<tr><td>16/303</td><td>Light smoker</td></tr>
+<tr><th>Age 75</th></tr>
+<tr><td>09/304</td><td>Nonsmoker</td></tr>
+<tr><td>20/304</td><td>Friend <a href="islander.php?id=qzw5nf2q96">Liam Jones</a> died</td></tr>
+<tr><td>22/304</td><td>Friend <a href="islander.php?id=6kykac23n8">Kenta Connolly</a> died</td></tr>
+<tr><th>Age 76</th></tr>
+<tr><td>27/304</td><td>Light smoker</td></tr>
+<tr><td>05/305</td><td>Nonsmoker</td></tr>
+<tr><td>17/305</td><td>Friends with <a href="islander.php?id=yr8l6nb45v">Inge Eklund</a></td></tr>
+<tr><th>Age 77</th></tr>
+<tr><td>10/306</td><td>Died from heart attack</td></tr>
+</table>
+</div>
+
+<div id="t2" class="content_tab">
+<script>
+var now = new Date();
+var delta = now.getTime() - 1603101728925.9;
+var progress = [];
+var consented = 0;
+</script>
+
+<div id="obtain"><a href="javascript:getConsent()">Obtain consent from Andrew's ghost</a>
+</div>
+<div id="detailbox" class="taskresult" style="display: none;"><canvas id="progress"></canvas><p id="detail"></p>
+</div>
+<div id="task_menu" style="display: none">
+<div class="submenu" onclick="toggle('physiol');"><img class="submenu" src="images/icons/physiology.png"/>Physiology</div>
+<div class="submenutasks" id="tasksphysiol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('height'); return false;">Height</span></div>
+</div>
+<div class="submenu" onclick="toggle('blood');"><img class="submenu" src="images/icons/blood.png"/>Blood Tests</div>
+<div class="submenutasks" id="tasksblood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodtype'); return false;">Blood Type</span></div>
+<div class="task"><span class="task" onclick="startTask('genes1'); return false;">Gene Array (Chromosome A)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes2'); return false;">Gene Array (Chromosome B)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes3'); return false;">Gene Array (Combined)</span></div>
+</div>
+</div>
+
+
+</div>
+
+
+
+<div id="t3" class="content_tab">
+
+<div id="conversation">
+</div>
+
+<div id="userinput" style="display: none">
+<input type="text" id="chatbox" autofocus="autofocus" autocomplete="off" size="40" maxlength="120" onkeydown="if (event.keyCode == 13) dochat();"/>
+<button type="submit" style="display: block; margin-top: 10px;" onclick="dochat();">Chat</button>
+</div>
+
+
+<p id="idetail">Andrew is currently unable to chat.</p>
+
+</div>
+
+</div>
+
+</div>
+<script src="js/splines.js?v=2"></script>
+<script src="js/boney-data.js?v=2"></script>
+<script src="js/boney.js?v=2"></script>
+<script src="js/progress.js?v=2"></script>
+<script>
+var available = 1;
+if (typeof(Storage) == "undefined") {
+	change_tab('t1');
+} else if (sessionStorage.getItem( pageid+'tab' ) == null) {
+	change_tab('t1');
+} else {
+	change_tab( sessionStorage.getItem( pageid+'tab' ) );
+}
+
+var islander = {'blink': 'ME1B', 'skincolour': '#815646', 'head': 'H5M', 'hair': 'MH3', 'wrinkle': 'Wrinkle2', 'eyecolour': '#2EB453', 'hr': 0.5, 'top': ['GM', 'GMH', 0.33300000000000002], 'hw': 1.038, 'eyes': 'ME1', 'glasses': 'G1', 'sad': 'M1S', 'topcolour': '#eeeeee', 'nose': 'MN3', 'skin': ['M', 'MH', 0.33300000000000002], 'haircolour': '#d2cbbe', 'happy': 'M1', 'brows': 'EB2', 'pixels': 489.0, 'ears': 'Ears1'};
+islander.id = 'v9d5fnqv8u';
+islander.name = 'Andrew';
+islander.sex = 'Male';
+islander.alive = 0;
+islander.mood = 'sad';
+islander.asleep = 0;
+boney['H'].angle = 0;
+drawSkeleton();
+window.orientationchange = function () { drawSkeleton() };
+window.onresize = function () { drawSkeleton() };
+</script>
+
+</body>

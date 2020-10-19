@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="islands.css?v=2">
+<link rel="stylesheet" type="text/css" href="css/islander.css?v=3">
+<title>Dean Price</title>
+<style>
+body { background-color: #d8c9c1 }
+th { }
+</style>
+</head>
+<body>
+
+
+<script>
+var pageid = 'islander';
+var current_tab = '';
+var task_icon = [];
+var id = 'psh55m6n6l';
+var awake = 0;
+var given = 'Dean';
+var chatid = 'ld87qq44a5ajd553tzm3';
+var thechat;
+var xhr;
+</script>
+<script src="js/islander.js?v=2.1"></script>
+
+<div id="banner">
+<div id="menubar">
+<div id="breadcrumbs"><a href="index.php" class="menu">Islands</a> &raquo; <a class="menu" href="village.php?Reading">Reading</a> <span class="crumb">&raquo; Dean Price</span></div>
+<div id="menu"><a href="project.php" class="menu">Quiz 4</a> &nbsp; &nbsp;  <a href="logout.php" class="menu">Logout</a></div>
+</div>
+<div id="title">Dean Price</div>
+</div>
+
+<div id="content">
+
+<div id="displayed">
+
+<div id="tabmenu">
+	<button class="lh" id="t1tab" onclick="change_tab('t1')">About</button>
+	<button class="lh" id="t2tab" onclick="change_tab('t2')">Tasks</button>
+	<button class="lh" id="t3tab" onclick="change_tab('t3')">Chat</button>
+</div>
+
+<div id="islander"><canvas id="skeleton"></canvas>
+</div>
+
+<div id="t1" class="content_tab">
+<table style="width: 100%">
+<tr><th colspan="2" style="padding-top: 0px;">Summary</th></tr>
+<tr><td colspan="2">Male</td></tr>
+<tr><td colspan="2">2 years old</td></tr>
+<tr><td colspan="2">$0</td></tr>
+<tr><td colspan="2">Lives in Reading 420</td></tr>
+
+<tr><th colspan="2">Parents</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=n5yw7h4arm">Paige Price</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=43feun8a7p">Ebbe Bager</a></td></tr>
+
+
+<tr><th colspan="2">Contacts</th></tr>
+
+<tr><td colspan="2" id="contact" onclick="addContact();" style="cursor: pointer; color: #55c;">
+Add Dean</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr><th>Age 0</th></tr>
+<tr><td>05/304</td><td>Born in Reading 420</td></tr>
+</table>
+</div>
+
+<div id="t2" class="content_tab">
+<script>
+var now = new Date();
+var delta = now.getTime() - 1603101637288.3;
+var progress = [];
+var consented = 0;
+</script>
+
+<div id="obtain"><a href="javascript:getConsent()">Obtain consent from Dean's guardian</a>
+</div>
+<div id="detailbox" class="taskresult" style="display: none;"><canvas id="progress"></canvas><p id="detail"></p>
+</div>
+<div id="task_menu" style="display: none">
+<div class="submenu" onclick="toggle('physiol');"><img class="submenu" src="images/icons/physiology.png"/>Physiology</div>
+<div class="submenutasks" id="tasksphysiol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodpressure'); return false;">Blood Pressure</span></div>
+<div class="task"><span class="task" onclick="startTask('temperature'); return false;">Body Temperature</span></div>
+<div class="task"><span class="task" onclick="startTask('head'); return false;">Head Circumference</span></div>
+<div class="task"><span class="task" onclick="startTask('height'); return false;">Height</span></div>
+<div class="task"><span class="task" onclick="startTask('liver'); return false;">Liver Size</span></div>
+<div class="task"><span class="task" onclick="startTask('pulse'); return false;">Pulse Meter</span></div>
+<div class="task"><span class="task" onclick="startTask('skin'); return false;">Skin Colouration</span></div>
+<div class="task"><span class="task" onclick="startTask('sleep'); return false;">Sleep Stage</span></div>
+<div class="task"><span class="task" onclick="startTask('weight'); return false;">Weight</span></div>
+</div>
+<div class="submenu" onclick="toggle('blood');"><img class="submenu" src="images/icons/blood.png"/>Blood Tests</div>
+<div class="submenutasks" id="tasksblood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodadrenaline'); return false;">Blood Adrenaline</span></div>
+<div class="task"><span class="task" onclick="startTask('aptt'); return false;">Blood APTT</span></div>
+<div class="task"><span class="task" onclick="startTask('cholesterol'); return false;">Blood Cholesterol</span></div>
+<div class="task"><span class="task" onclick="startTask('cortisol'); return false;">Blood Cortisol</span></div>
+<div class="task"><span class="task" onclick="startTask('endorphin'); return false;">Blood Endorphin</span></div>
+<div class="task"><span class="task" onclick="startTask('estrogen'); return false;">Blood Estrogen</span></div>
+<div class="task"><span class="task" onclick="startTask('ghrelin'); return false;">Blood Ghrelin</span></div>
+<div class="task"><span class="task" onclick="startTask('bloodglucose'); return false;">Blood Glucose</span></div>
+<div class="task"><span class="task" onclick="startTask('hematocrit'); return false;">Blood Hematocrit</span></div>
+<div class="task"><span class="task" onclick="startTask('melatonin'); return false;">Blood Melatonin</span></div>
+<div class="task"><span class="task" onclick="startTask('oxytocin'); return false;">Blood Oxytocin</span></div>
+<div class="task"><span class="task" onclick="startTask('potassium'); return false;">Blood Potassium</span></div>
+<div class="task"><span class="task" onclick="startTask('serotonin'); return false;">Blood Serotonin</span></div>
+<div class="task"><span class="task" onclick="startTask('sodium'); return false;">Blood Sodium</span></div>
+<div class="task"><span class="task" onclick="startTask('testosterone'); return false;">Blood Testosterone</span></div>
+<div class="task"><span class="task" onclick="startTask('bloodtype'); return false;">Blood Type</span></div>
+<div class="task"><span class="task" onclick="startTask('vitd'); return false;">Blood Vitamin D</span></div>
+<div class="task"><span class="task" onclick="startTask('cdz'); return false;">CDZ Lymphocyte Count</span></div>
+<div class="task"><span class="task" onclick="startTask('genes1'); return false;">Gene Array (Chromosome A)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes2'); return false;">Gene Array (Chromosome B)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes3'); return false;">Gene Array (Combined)</span></div>
+<div class="task"><span class="task" onclick="startTask('wbc'); return false;">White Blood Cell Count</span></div>
+</div>
+<div class="submenu" onclick="toggle('mental');"><img class="submenu" src="images/icons/mental.png"/>Mental Tasks</div>
+<div class="submenutasks" id="tasksmental" style="display: none">
+<div class="task"><span class="task" onclick="startTask('lds'); return false;">Language Inventory</span></div>
+</div>
+<div class="submenu" onclick="toggle('saliva');"><img class="submenu" src="images/icons/urine.png"/>Saliva Tests</div>
+<div class="submenutasks" id="taskssaliva" style="display: none">
+<div class="task"><span class="task" onclick="startTask('cortisal'); return false;">Salivary Cortisol</span></div>
+</div>
+<div class="submenu" onclick="toggle('');"><img class="submenu" src="images/icons/misc.png"/>Miscellaneous</div>
+<div class="submenutasks" id="tasks" style="display: none">
+<div class="task"><span class="task" onclick="startTask('wound'); return false;">Examine Wounds</span></div>
+</div>
+</div>
+
+
+</div>
+
+
+
+<div id="t3" class="content_tab">
+
+<div id="conversation">
+</div>
+
+<div id="userinput" style="display: none">
+<input type="text" id="chatbox" autofocus="autofocus" autocomplete="off" size="40" maxlength="120" onkeydown="if (event.keyCode == 13) dochat();"/>
+<button type="submit" style="display: block; margin-top: 10px;" onclick="dochat();">Chat</button>
+</div>
+
+
+<p id="idetail">Dean is currently unable to chat.</p>
+
+</div>
+
+</div>
+
+</div>
+<script src="js/splines.js?v=2"></script>
+<script src="js/boney-data.js?v=2"></script>
+<script src="js/boney.js?v=2"></script>
+<script src="js/progress.js?v=2"></script>
+<script>
+var available = 1;
+if (typeof(Storage) == "undefined") {
+	change_tab('t1');
+} else if (sessionStorage.getItem( pageid+'tab' ) == null) {
+	change_tab('t1');
+} else {
+	change_tab( sessionStorage.getItem( pageid+'tab' ) );
+}
+
+var islander = {'blink': 'ME1B', 'skincolour': '#815646', 'head': 'H5M', 'hair': 'MH10', 'eyecolour': '#946536', 'bottom': ['T2MS', 'T2M', 0.23599999999999999], 'bottomcolour': '#414b2c', 'top': ['S2MS', 'S2M', 0.23599999999999999], 'eyes': 'ME1', 'hw': 1.0, 'sad': 'M1S', 'topcolour': '#aea6ea', 'hr': 1.0, 'nose': 'MN3', 'skin': ['MS', 'M', 0.23599999999999999], 'haircolour': '#382513', 'happy': 'M1', 'brows': 'EB2', 'pixels': 270.0, 'ears': 'Ears1'};
+islander.id = 'psh55m6n6l';
+islander.name = 'Dean';
+islander.sex = 'Male';
+islander.alive = 1;
+islander.mood = 'happy';
+islander.asleep = 1;
+doAnimate();
+window.orientationchange = function () { drawSkeleton() };
+window.onresize = function () { drawSkeleton() };
+</script>
+
+</body>

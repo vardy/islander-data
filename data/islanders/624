@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="islands.css?v=2">
+<link rel="stylesheet" type="text/css" href="css/islander.css?v=3">
+<title>Kyosuke Oyama</title>
+<style>
+body { background-color: #d8c9c1 }
+th { }
+</style>
+</head>
+<body>
+
+
+<script>
+var pageid = 'islander';
+var current_tab = '';
+var task_icon = [];
+var id = '8q2sxha598';
+var awake = 0;
+var given = 'Kyosuke';
+var chatid = 'kvgj29bhn34mpjv8bw4e';
+var thechat;
+var xhr;
+</script>
+<script src="js/islander.js?v=2.1"></script>
+
+<div id="banner">
+<div id="menubar">
+<div id="breadcrumbs"><a href="index.php" class="menu">Islands</a> &raquo; <a class="menu" href="village.php?Reading">Reading</a> <span class="crumb">&raquo; Kyosuke Oyama</span></div>
+<div id="menu"><a href="project.php" class="menu">Quiz 4</a> &nbsp; &nbsp;  <a href="logout.php" class="menu">Logout</a></div>
+</div>
+<div id="title">Kyosuke Oyama</div>
+</div>
+
+<div id="content">
+
+<div id="displayed">
+
+<div id="tabmenu">
+	<button class="lh" id="t1tab" onclick="change_tab('t1')">About</button>
+	<button class="lh" id="t2tab" onclick="change_tab('t2')">Tasks</button>
+	<button class="lh" id="t3tab" onclick="change_tab('t3')">Chat</button>
+</div>
+
+<div id="islander"><canvas id="skeleton"></canvas>
+</div>
+
+<div id="t1" class="content_tab">
+<table style="width: 100%">
+<tr><th colspan="2" style="padding-top: 0px;">Summary</th></tr>
+<tr><td colspan="2">Male</td></tr>
+<tr><td colspan="2">22 years old</td></tr>
+<tr><td colspan="2">Died in Year 306</td></tr>
+
+<tr><th colspan="2">Parents</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=p6e64ufplm">Kanoko Oyama</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=jca2qqq66h">Shinta Matsui</a></td></tr>
+
+<tr><th colspan="2">Children</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=6wcmj53rzq">Susan Zimmer</a></td></tr>
+
+<tr><th colspan="2">Contacts</th></tr>
+
+<tr><td colspan="2" id="contact" onclick="addContact();" style="cursor: pointer; color: #55c;">
+Add Kyosuke</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr><th>Age 0</th></tr>
+<tr><td>12/284</td><td>Born in Lost Mountains</td></tr>
+<tr><th>Age 15</th></tr>
+<tr><td>01/300</td><td>Arrived in Kiyobico 536</td></tr>
+<tr><td>02/300</td><td>Moved to Reading 1129 with family</td></tr>
+<tr><th>Age 16</th></tr>
+<tr><td>15/300</td><td>Reading High School</td></tr>
+<tr><td>19/300</td><td>Friends with <a href="islander.php?id=k4fwe6twln">Samia Humbert</a></td></tr>
+<tr><td>22/300</td><td>Friends with <a href="islander.php?id=nus5ld84r9">Shunpei Okamoto</a></td></tr>
+<tr><th>Age 17</th></tr>
+<tr><td>22/301</td><td>Friends with <a href="islander.php?id=ac9txerbyx">Sari Matsuda</a></td></tr>
+<tr><td>23/301</td><td>No longer friends with <a href="islander.php?id=ac9txerbyx">Sari Matsuda</a></td></tr>
+<tr><td>26/301</td><td>Dating <a href="islander.php?id=k4fwe6twln">Samia Humbert</a></td></tr>
+<tr><td>02/302</td><td>Author</td></tr>
+<tr><td>04/302</td><td>Single</td></tr>
+<tr><td>04/302</td><td>No longer friends with <a href="islander.php?id=k4fwe6twln">Samia Humbert</a></td></tr>
+<tr><td>08/302</td><td>Graduated from Reading High School</td></tr>
+<tr><th>Age 18</th></tr>
+<tr><td>13/302</td><td>Friends with <a href="islander.php?id=a2evupvfh5">Uta Zimmer</a></td></tr>
+<tr><td>20/302</td><td>Left home</td></tr>
+<tr><td>20/302</td><td>Moved to Reading 1012</td></tr>
+<tr><td>03/303</td><td>Friends with <a href="islander.php?id=qtp6ck3hjb">Tadao Kinoshita</a></td></tr>
+<tr><td>05/303</td><td>Friends with <a href="islander.php?id=kzk2yfcy37">Uta Erikawa</a></td></tr>
+<tr><td>10/303</td><td>Dating <a href="islander.php?id=a2evupvfh5">Uta Zimmer</a></td></tr>
+<tr><th>Age 19</th></tr>
+<tr><td>14/303</td><td>Friends with <a href="islander.php?id=863w7k4y4w">Gregory Craig</a></td></tr>
+<tr><td>15/303</td><td>Friends with <a href="islander.php?id=sz7t8hvn29">Sebastien Lecomte</a></td></tr>
+<tr><td>22/303</td><td>Friends with <a href="islander.php?id=7n9bl6pwym">Oriel Perrot</a></td></tr>
+<tr><td>24/303</td><td>Friends with <a href="islander.php?id=fafe6n5h9c">Hiroka Masuda</a></td></tr>
+<tr><td>04/304</td><td>Friends with <a href="islander.php?id=q6gymmy8n2">Shona Boyle</a></td></tr>
+<tr><td>04/304</td><td>No longer friends with <a href="islander.php?id=fafe6n5h9c">Hiroka Masuda</a></td></tr>
+<tr><td>10/304</td><td>Engaged <a href="islander.php?id=a2evupvfh5">Uta Zimmer</a></td></tr>
+<tr><td>11/304</td><td>Friends with <a href="islander.php?id=2pxgqswfdx">Gento Aoki</a></td></tr>
+<tr><th>Age 20</th></tr>
+<tr><td>16/304</td><td>Friends with <a href="islander.php?id=l5pr7w8b2t">Felix Jensen</a></td></tr>
+<tr><td>03/305</td><td>Married <a href="islander.php?id=a2evupvfh5">Uta Zimmer</a></td></tr>
+<tr><th>Age 21</th></tr>
+<tr><td>08/306</td><td><a href="islander.php?id=6wcmj53rzq">Susan Zimmer</a> born</td></tr>
+<tr><td>10/306</td><td>Caught V3</td></tr>
+<tr><td>11/306</td><td>Viral infection admission</td></tr>
+<tr><th>Age 22</th></tr>
+<tr><td>13/306</td><td>Died from V3</td></tr>
+</table>
+</div>
+
+<div id="t2" class="content_tab">
+<script>
+var now = new Date();
+var delta = now.getTime() - 1603101628001.9;
+var progress = [];
+var consented = 0;
+</script>
+
+<div id="obtain"><a href="javascript:getConsent()">Obtain consent from Kyosuke's ghost</a>
+</div>
+<div id="detailbox" class="taskresult" style="display: none;"><canvas id="progress"></canvas><p id="detail"></p>
+</div>
+<div id="task_menu" style="display: none">
+<div class="submenu" onclick="toggle('physiol');"><img class="submenu" src="images/icons/physiology.png"/>Physiology</div>
+<div class="submenutasks" id="tasksphysiol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('height'); return false;">Height</span></div>
+</div>
+<div class="submenu" onclick="toggle('blood');"><img class="submenu" src="images/icons/blood.png"/>Blood Tests</div>
+<div class="submenutasks" id="tasksblood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodtype'); return false;">Blood Type</span></div>
+<div class="task"><span class="task" onclick="startTask('genes1'); return false;">Gene Array (Chromosome A)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes2'); return false;">Gene Array (Chromosome B)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes3'); return false;">Gene Array (Combined)</span></div>
+</div>
+</div>
+
+
+</div>
+
+
+
+<div id="t3" class="content_tab">
+
+<div id="conversation">
+</div>
+
+<div id="userinput" style="display: none">
+<input type="text" id="chatbox" autofocus="autofocus" autocomplete="off" size="40" maxlength="120" onkeydown="if (event.keyCode == 13) dochat();"/>
+<button type="submit" style="display: block; margin-top: 10px;" onclick="dochat();">Chat</button>
+</div>
+
+
+<p id="idetail">Kyosuke is currently unable to chat.</p>
+
+</div>
+
+</div>
+
+</div>
+<script src="js/splines.js?v=2"></script>
+<script src="js/boney-data.js?v=2"></script>
+<script src="js/boney.js?v=2"></script>
+<script src="js/progress.js?v=2"></script>
+<script>
+var available = 1;
+if (typeof(Storage) == "undefined") {
+	change_tab('t1');
+} else if (sessionStorage.getItem( pageid+'tab' ) == null) {
+	change_tab('t1');
+} else {
+	change_tab( sessionStorage.getItem( pageid+'tab' ) );
+}
+
+var islander = {'blink': 'ME1B', 'skincolour': '#E9CABE', 'head': 'H1M', 'hair': 'MH12', 'eyecolour': '#597EBC', 'hr': 0.66700000000000004, 'top': ['GM', 'GMT', -0.0], 'eyes': 'ME1', 'hw': 1.0, 'sad': 'M1S', 'topcolour': '#eeeeee', 'nose': 'MN2', 'back': 'BH2', 'skin': ['M', 'MT', -0.0], 'haircolour': '#fef8cf', 'happy': 'M1', 'brows': 'EB3', 'pixels': 531.0, 'ears': 'Ears1'};
+islander.id = '8q2sxha598';
+islander.name = 'Kyosuke';
+islander.sex = 'Male';
+islander.alive = 0;
+islander.mood = 'sad';
+islander.asleep = 0;
+boney['H'].angle = 0;
+drawSkeleton();
+window.orientationchange = function () { drawSkeleton() };
+window.onresize = function () { drawSkeleton() };
+</script>
+
+</body>

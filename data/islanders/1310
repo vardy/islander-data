@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/images/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" type="text/css" href="islands.css?v=2">
+<link rel="stylesheet" type="text/css" href="css/islander.css?v=3">
+<title>Sanji Matsumoto</title>
+<style>
+body { background-color: #d8c9c1 }
+th { }
+</style>
+</head>
+<body>
+
+
+<script>
+var pageid = 'islander';
+var current_tab = '';
+var task_icon = [];
+var id = 'nmtyqrkxb5';
+var awake = 1;
+var given = 'Sanji';
+var chatid = 'kbhym8abue9lpacj6m5u';
+var thechat;
+var xhr;
+</script>
+<script src="js/islander.js?v=2.1"></script>
+
+<div id="banner">
+<div id="menubar">
+<div id="breadcrumbs"><a href="index.php" class="menu">Islands</a> &raquo; <a class="menu" href="village.php?Reading">Reading</a> <span class="crumb">&raquo; Sanji Matsumoto</span></div>
+<div id="menu"><a href="project.php" class="menu">Quiz 4</a> &nbsp; &nbsp;  <a href="logout.php" class="menu">Logout</a></div>
+</div>
+<div id="title">Sanji Matsumoto</div>
+</div>
+
+<div id="content">
+
+<div id="displayed">
+
+<div id="tabmenu">
+	<button class="lh" id="t1tab" onclick="change_tab('t1')">About</button>
+	<button class="lh" id="t2tab" onclick="change_tab('t2')">Tasks</button>
+	<button class="lh" id="t3tab" onclick="change_tab('t3')">Chat</button>
+</div>
+
+<div id="islander" style="width: 320px;"><canvas id="skeleton"></canvas>
+<img id="thepet" src="images/pets/cat/5.png" /></div>
+
+<div id="t1" class="content_tab">
+<table style="width: 100%">
+<tr><th colspan="2" style="padding-top: 0px;">Summary</th></tr>
+<tr><td colspan="2">Male</td></tr>
+<tr><td colspan="2">41 years old</td></tr>
+<tr><td colspan="2">Hairdresser</td></tr>
+<tr><td colspan="2">$8,278</td></tr>
+<tr><td colspan="2">Lives in Reading 1077</td></tr>
+
+
+<tr><th colspan="2">Spouse</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=tfx45vags9">Kanako Morita</a></td></tr>
+<tr><th colspan="2">Children</th></tr>
+<tr><td colspan="2"><a href="islander.php?id=gtpucnuevy">Saori Matsumoto</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=bzkqyj5weu">Shu Matsumoto</a></td></tr>
+<tr><td colspan="2"><a href="islander.php?id=67gllfedyp">Ryutaro Morita</a></td></tr>
+
+<tr><th colspan="2">Contacts</th></tr>
+
+<tr><td colspan="2" id="contact" onclick="addContact();" style="cursor: pointer; color: #55c;">
+Add Sanji</td></tr>
+
+<tr><td colspan="2">&nbsp;</td></tr>
+
+<tr><th>Age 0</th></tr>
+<tr><td>01/265</td><td>Born in Lost Mountains</td></tr>
+<tr><th>Age 35</th></tr>
+<tr><td>01/300</td><td>Arrived in Akkeshi 476</td></tr>
+<tr><td>02/300</td><td>Moving to find work </td></tr>
+<tr><td>02/300</td><td>Moved to Reading 1077</td></tr>
+<tr><td>17/300</td><td>Hairdresser</td></tr>
+<tr><th>Age 36</th></tr>
+<tr><td>05/301</td><td>Friends with <a href="islander.php?id=vmtaqnszyf">Takashi Kinoshita</a></td></tr>
+<tr><td>07/301</td><td>Friends with <a href="islander.php?id=734em9lwgl">Kazuto Morita</a></td></tr>
+<tr><td>12/301</td><td>Caught V1</td></tr>
+<tr><th>Age 37</th></tr>
+<tr><td>11/302</td><td>Friends with <a href="islander.php?id=knjeaq27us">Ryuga Kinoshita</a></td></tr>
+<tr><th>Age 38</th></tr>
+<tr><td>02/303</td><td>Friends with <a href="islander.php?id=c8whrmpmz2">Takato Sugiyama</a></td></tr>
+<tr><td>04/303</td><td>Friends with <a href="islander.php?id=f3h64f95de">Evelyn Henderson</a></td></tr>
+<tr><td>28/303</td><td>Light smoker</td></tr>
+<tr><th>Age 39</th></tr>
+<tr><td>04/304</td><td>Nonsmoker</td></tr>
+<tr><td>18/304</td><td>Friend <a href="islander.php?id=734em9lwgl">Kazuto Morita</a> died</td></tr>
+<tr><td>28/304</td><td>Friends with <a href="islander.php?id=q2mhmd74w2">Willy Fleury</a></td></tr>
+</table>
+</div>
+
+<div id="t2" class="content_tab">
+<script>
+var now = new Date();
+var delta = now.getTime() - 1603101688274.2;
+var progress = [];
+var consented = 0;
+</script>
+
+<div id="obtain"><a href="javascript:getConsent()">Obtain consent from Sanji</a>
+</div>
+<div id="detailbox" class="taskresult" style="display: none;"><canvas id="progress"></canvas><p id="detail"></p>
+</div>
+<div id="task_menu" style="display: none">
+<div class="submenu" onclick="toggle('recent');"><img class="submenu" src="images/icons/physiology.png"/>Recent Tasks</div>
+<div class="submenutasks" id="tasksrecent" style="display: block">
+<div class="task"><span class="task" onclick="startTask('ruler'); return false;">Ruler Test</span></div>
+<div class="task"><span class="task" onclick="startTask('vodka'); return false;">Vodka 30 mL</span></div>
+</div>
+<div class="submenu" onclick="toggle('record');"><img class="submenu" src="images/icons/misc.png"/>Documents</div>
+<div class="submenutasks" id="tasksrecord" style="display: none">
+<div class="task"><span class="task" onclick="startTask('fooddiary'); return false;">Food Diary</span></div>
+<div class="task"><span class="task" onclick="startTask('hypnogram'); return false;">Hypnogram</span></div>
+<div class="task"><span class="task" onclick="startTask('reportcard'); return false;">Report Card</span></div>
+<div class="task"><span class="task" onclick="startTask('taxrecords'); return false;">Tax Records</span></div>
+</div>
+<div class="submenu" onclick="toggle('physiol');"><img class="submenu" src="images/icons/physiology.png"/>Physiology</div>
+<div class="submenutasks" id="tasksphysiol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodpressure'); return false;">Blood Pressure</span></div>
+<div class="task"><span class="task" onclick="startTask('temperature'); return false;">Body Temperature</span></div>
+<div class="task"><span class="task" onclick="startTask('head'); return false;">Head Circumference</span></div>
+<div class="task"><span class="task" onclick="startTask('height'); return false;">Height</span></div>
+<div class="task"><span class="task" onclick="startTask('liver'); return false;">Liver Size</span></div>
+<div class="task"><span class="task" onclick="startTask('submax'); return false;">Oxygen Uptake Submaximal</span></div>
+<div class="task"><span class="task" onclick="startTask('peakflow'); return false;">Peak Flow Meter</span></div>
+<div class="task"><span class="task" onclick="startTask('pptbiceps'); return false;">Pressure Pain Threshold Biceps</span></div>
+<div class="task"><span class="task" onclick="startTask('ppttrapezius'); return false;">Pressure Pain Threshold Trapezius</span></div>
+<div class="task"><span class="task" onclick="startTask('pulse'); return false;">Pulse Meter</span></div>
+<div class="task"><span class="task" onclick="startTask('breathing'); return false;">Respiratory Rate 2 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('skin'); return false;">Skin Colouration</span></div>
+<div class="task"><span class="task" onclick="startTask('sleep'); return false;">Sleep Stage</span></div>
+<div class="task"><span class="task" onclick="startTask('fev'); return false;">Spirometer</span></div>
+<div class="task"><span class="task" onclick="startTask('visualacuity'); return false;">Visual Acuity</span></div>
+<div class="task"><span class="task" onclick="startTask('vocalfreq'); return false;">Vocal Frequency</span></div>
+<div class="task"><span class="task" onclick="startTask('weight'); return false;">Weight</span></div>
+</div>
+<div class="submenu" onclick="toggle('blood');"><img class="submenu" src="images/icons/blood.png"/>Blood Tests</div>
+<div class="submenutasks" id="tasksblood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bloodadrenaline'); return false;">Blood Adrenaline</span></div>
+<div class="task"><span class="task" onclick="startTask('breathalyzer'); return false;">Blood Alcohol</span></div>
+<div class="task"><span class="task" onclick="startTask('aptt'); return false;">Blood APTT</span></div>
+<div class="task"><span class="task" onclick="startTask('cholesterol'); return false;">Blood Cholesterol</span></div>
+<div class="task"><span class="task" onclick="startTask('cortisol'); return false;">Blood Cortisol</span></div>
+<div class="task"><span class="task" onclick="startTask('endorphin'); return false;">Blood Endorphin</span></div>
+<div class="task"><span class="task" onclick="startTask('estrogen'); return false;">Blood Estrogen</span></div>
+<div class="task"><span class="task" onclick="startTask('ghrelin'); return false;">Blood Ghrelin</span></div>
+<div class="task"><span class="task" onclick="startTask('bloodglucose'); return false;">Blood Glucose</span></div>
+<div class="task"><span class="task" onclick="startTask('hematocrit'); return false;">Blood Hematocrit</span></div>
+<div class="task"><span class="task" onclick="startTask('melatonin'); return false;">Blood Melatonin</span></div>
+<div class="task"><span class="task" onclick="startTask('oxytocin'); return false;">Blood Oxytocin</span></div>
+<div class="task"><span class="task" onclick="startTask('potassium'); return false;">Blood Potassium</span></div>
+<div class="task"><span class="task" onclick="startTask('serotonin'); return false;">Blood Serotonin</span></div>
+<div class="task"><span class="task" onclick="startTask('sodium'); return false;">Blood Sodium</span></div>
+<div class="task"><span class="task" onclick="startTask('testosterone'); return false;">Blood Testosterone</span></div>
+<div class="task"><span class="task" onclick="startTask('bloodtype'); return false;">Blood Type</span></div>
+<div class="task"><span class="task" onclick="startTask('vitd'); return false;">Blood Vitamin D</span></div>
+<div class="task"><span class="task" onclick="startTask('cdz'); return false;">CDZ Lymphocyte Count</span></div>
+<div class="task"><span class="task" onclick="startTask('genes1'); return false;">Gene Array (Chromosome A)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes2'); return false;">Gene Array (Chromosome B)</span></div>
+<div class="task"><span class="task" onclick="startTask('genes3'); return false;">Gene Array (Combined)</span></div>
+<div class="task"><span class="task" onclick="startTask('wbc'); return false;">White Blood Cell Count</span></div>
+</div>
+<div class="submenu" onclick="toggle('mental');"><img class="submenu" src="images/icons/mental.png"/>Mental Tasks</div>
+<div class="submenutasks" id="tasksmental" style="display: none">
+<div class="task"><span class="task" onclick="startTask('codetransmission'); return false;">Code Transmission Test 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('comprehension'); return false;">Comprehension Test 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('pegboard'); return false;">Grooved Pegboard Test</span></div>
+<div class="task"><span class="task" onclick="startTask('happy'); return false;">Happy Memories 1 min</span></div>
+<div class="task"><span class="task" onclick="startTask('iq'); return false;">IQ Test</span></div>
+<div class="task"><span class="task" onclick="startTask('memorygame'); return false;">Memory Game</span></div>
+<div class="task"><span class="task" onclick="startTask('memorycards'); return false;">Memory Test Cards</span></div>
+<div class="task"><span class="task" onclick="startTask('memoryvocab'); return false;">Memory Test Vocabulary</span></div>
+<div class="task"><span class="task" onclick="startTask('mental'); return false;">Mental Arithmetic Basic 4 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('mentalhard'); return false;">Mental Arithmetic Difficult 4 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('minicog'); return false;">Mini-Cog Test</span></div>
+<div class="task"><span class="task" onclick="startTask('money'); return false;">Monetary Incentive</span></div>
+<div class="task"><span class="task" onclick="startTask('chessblack'); return false;">Play Chess Black</span></div>
+<div class="task"><span class="task" onclick="startTask('chesswhite'); return false;">Play Chess White</span></div>
+<div class="task"><span class="task" onclick="startTask('solving'); return false;">Problem Solving Basic 20 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('puzzlecube'); return false;">Puzzle Cube</span></div>
+<div class="task"><span class="task" onclick="startTask('sad'); return false;">Sad Memories 1 min</span></div>
+<div class="task"><span class="task" onclick="startTask('trivial'); return false;">Trivial Pursuit 5 mins</span></div>
+</div>
+<div class="submenu" onclick="toggle('exercise');"><img class="submenu" src="images/icons/exercise.png"/>Exercise</div>
+<div class="submenutasks" id="tasksexercise" style="display: none">
+<div class="task"><span class="task" onclick="startTask('armcurl'); return false;">Arm Curl Test 30 s</span></div>
+<div class="task"><span class="task" onclick="startTask('armstrength'); return false;">Arm Strength</span></div>
+<div class="task"><span class="task" onclick="startTask('brisk30'); return false;">Brisk Walk Outdoors 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('bungie25'); return false;">Bungy Jump 25 m</span></div>
+<div class="task"><span class="task" onclick="startTask('bungie50'); return false;">Bungy Jump 50 m</span></div>
+<div class="task"><span class="task" onclick="startTask('climbtree'); return false;">Climb Tree 3 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('hop100'); return false;">Hop Outdoors 100 m</span></div>
+<div class="task"><span class="task" onclick="startTask('jogdown'); return false;">Jog Downhill 200 m</span></div>
+<div class="task"><span class="task" onclick="startTask('jog'); return false;">Jog on the Spot 1 min</span></div>
+<div class="task"><span class="task" onclick="startTask('jog30'); return false;">Jog Outdoors 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('jogup'); return false;">Jog Uphill 200 m</span></div>
+<div class="task"><span class="task" onclick="startTask('jumping'); return false;">Jumping 30 s</span></div>
+<div class="task"><span class="task" onclick="startTask('joglight'); return false;">Light Jogging 5 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('beep'); return false;">Multistage Shuttle Run Test 15 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('walkin'); return false;">Relaxing Walk Indoors 60 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('walk30'); return false;">Relaxing Walk Outdoors 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('walk'); return false;">Relaxing Walk Outdoors 60 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('runin100'); return false;">Run Indoors 100 m</span></div>
+<div class="task"><span class="task" onclick="startTask('runin5000'); return false;">Run Indoors 5 km</span></div>
+<div class="task"><span class="task" onclick="startTask('run1000'); return false;">Run Outdoors 1 km</span></div>
+<div class="task"><span class="task" onclick="startTask('run100'); return false;">Run Outdoors 100 m</span></div>
+<div class="task"><span class="task" onclick="startTask('run30'); return false;">Run Outdoors 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('run5000'); return false;">Run Outdoors 5 km</span></div>
+<div class="task"><span class="task" onclick="startTask('resistance'); return false;">Strength Training 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('stretching'); return false;">Stretching and Holding 5 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('freestyle1500'); return false;">Swim Freestyle 1500 m</span></div>
+<div class="task"><span class="task" onclick="startTask('freestyle200'); return false;">Swim Freestyle 200 m</span></div>
+<div class="task"><span class="task" onclick="startTask('swim30'); return false;">Swim Freestyle 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('freestyle50'); return false;">Swim Freestyle 50 m</span></div>
+<div class="task"><span class="task" onclick="startTask('yoga'); return false;">Yoga 30 mins</span></div>
+</div>
+<div class="submenu" onclick="toggle('coord');"><img class="submenu" src="images/icons/coord.png"/>Coordination</div>
+<div class="submenutasks" id="taskscoord" style="display: none">
+<div class="task"><span class="task" onclick="startTask('balance'); return false;">Balance Test Eyes Closed</span></div>
+<div class="task"><span class="task" onclick="startTask('balanceopen'); return false;">Balance Test Eyes Open</span></div>
+<div class="task"><span class="task" onclick="startTask('bounce'); return false;">Ball Bounce Test 1 min</span></div>
+<div class="task"><span class="task" onclick="startTask('clapping'); return false;">Clap Hands 1 min</span></div>
+<div class="task"><span class="task" onclick="startTask('lightbulb'); return false;">Light Flash Test</span></div>
+<div class="task"><span class="task" onclick="startTask('ruler'); return false;">Ruler Test</span></div>
+<div class="task"><span class="task" onclick="startTask('tug'); return false;">Timed Up and Go Test</span></div>
+</div>
+<div class="submenu" onclick="toggle('alcohol');"><img class="submenu" src="images/icons/alcohol.png"/>Alcoholic Drinks</div>
+<div class="submenutasks" id="tasksalcohol" style="display: none">
+<div class="task"><span class="task" onclick="startTask('lightbeer'); return false;">Beer Light 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('regularbeer'); return false;">Beer Regular 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('guinness'); return false;">Guinness 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('maitai'); return false;">Mai Tai 100 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('redwine'); return false;">Red Wine 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('tequila'); return false;">Tequila 30 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('vodka'); return false;">Vodka 30 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('whitewine'); return false;">White Wine 250 mL</span></div>
+</div>
+<div class="submenu" onclick="toggle('drink');"><img class="submenu" src="images/icons/drink.png"/>Cold Drinks</div>
+<div class="submenutasks" id="tasksdrink" style="display: none">
+<div class="task"><span class="task" onclick="startTask('applejuice'); return false;">Apple Juice 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('nabeer'); return false;">Beer Non-alcoholic 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('cola'); return false;">Cola Caffeinated 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('coladecaf'); return false;">Cola Caffeine-free 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('energydrink'); return false;">Energy Drink 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('energydrinkcf'); return false;">Energy Drink Caffeine-free 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('energydrinkcfsf'); return false;">Energy Drink Caffeine-free Sugar-free 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('energydrinksf'); return false;">Energy Drink Sugar-free 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('isotonic'); return false;">Isotonic Drink 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('kava'); return false;">Kava 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('lemonade'); return false;">Lemonade 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('lemonadesf'); return false;">Lemonade Sugar-free 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('milkcold'); return false;">Milk Cold 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('msg'); return false;">Monosodium Glutamate 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('muddy'); return false;">Muddy Water 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('nawine'); return false;">Nonalcoholic White Wine 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('salt'); return false;">Salt Water 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('sports'); return false;">Sports Drink 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('sportscaf'); return false;">Sports Drink Caffeinated 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('sugar'); return false;">Sugar Water 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('vitc'); return false;">Vitamin C Drink 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('water250'); return false;">Water 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('water60'); return false;">Water 60 mL</span></div>
+</div>
+<div class="submenu" onclick="toggle('hot');"><img class="submenu" src="images/icons/hot.png"/>Hot Drinks</div>
+<div class="submenutasks" id="taskshot" style="display: none">
+<div class="task"><span class="task" onclick="startTask('coffee'); return false;">Coffee 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('coffeedecaf'); return false;">Coffee Decaffeinated 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('espresso'); return false;">Coffee Espresso 60 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('espressosugar'); return false;">Coffee Espresso Sugar 60 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('honeywater'); return false;">Honey Drink 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('milkwarm'); return false;">Milk Warm 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('tea'); return false;">Tea 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('greentea'); return false;">Tea Green 250 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('herbaltea'); return false;">Tea Herbal 250 mL</span></div>
+</div>
+<div class="submenu" onclick="toggle('inject');"><img class="submenu" src="images/icons/blood.png"/>Injections</div>
+<div class="submenutasks" id="tasksinject" style="display: none">
+<div class="task"><span class="task" onclick="startTask('adrenaline'); return false;">Adrenaline 10 &micro;g</span></div>
+<div class="task"><span class="task" onclick="startTask('epo'); return false;">Erythropoietin 1000IU</span></div>
+<div class="task"><span class="task" onclick="startTask('glucose10'); return false;">Glucose 10%</span></div>
+<div class="task"><span class="task" onclick="startTask('glucose5'); return false;">Glucose 5%</span></div>
+<div class="task"><span class="task" onclick="startTask('salinehyper'); return false;">Hypertonic Saline 3 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('salinehypo'); return false;">Hypotonic Saline 3 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('w42'); return false;">Influenza W42 50 &micro;g</span></div>
+<div class="task"><span class="task" onclick="startTask('meth'); return false;">Methamphetamine 50 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('morphineinj'); return false;">Morphine 20 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('naturalinsulin'); return false;">Natural Insulin 1 unit</span></div>
+<div class="task"><span class="task" onclick="startTask('saline'); return false;">Saline 3 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('serotonin10'); return false;">Serotonin 10 &micro;g</span></div>
+<div class="task"><span class="task" onclick="startTask('somatropin'); return false;">Somatropin 1000 &micro;g</span></div>
+<div class="task"><span class="task" onclick="startTask('syntheticinsulin'); return false;">Synthetic Insulin 1 unit</span></div>
+</div>
+<div class="submenu" onclick="toggle('tablet');"><img class="submenu" src="images/icons/tablet.png"/>Tablets</div>
+<div class="submenutasks" id="taskstablet" style="display: none">
+<div class="task"><span class="task" onclick="startTask('alprazolam'); return false;">Alprazolam 1 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('aspirin'); return false;">Aspirin 500 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('codeine'); return false;">Codeine 60 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('dextro'); return false;">Dextroamphetamine 10 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('valium'); return false;">Diazepam 10 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('fishoil'); return false;">Fish Oil 500 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('isotretinoin'); return false;">Isotretinoin 50 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('lactose'); return false;">Lactose Tablet</span></div>
+<div class="task"><span class="task" onclick="startTask('lsd'); return false;">Lysergic Acid Diethylamide 100 &micro;g</span></div>
+<div class="task"><span class="task" onclick="startTask('ecstasy'); return false;">Methylenedioxymethamphetamine 50 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('morphine'); return false;">Morphine Tablet 50 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('nicotine'); return false;">Nicotine 2 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('oliveoil'); return false;">Olive Oil 500 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('paracetemol'); return false;">Paracetemol 500 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('pse'); return false;">Pseudoephedrine 30 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('viagra25'); return false;">Sildenafil Citrate 25 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('placebo'); return false;">Sugar Tablet</span></div>
+<div class="task"><span class="task" onclick="startTask('triazolam'); return false;">Triazolam 250 &micro;g</span></div>
+<div class="task"><span class="task" onclick="startTask('valerian'); return false;">Valerian 1 g</span></div>
+<div class="task"><span class="task" onclick="startTask('vitamind'); return false;">Vitamin D 50 &micro;g</span></div>
+</div>
+<div class="submenu" onclick="toggle('drugs');"><img class="submenu" src="images/icons/drugs.png"/>Other Drugs</div>
+<div class="submenutasks" id="tasksdrugs" style="display: none">
+<div class="task"><span class="task" onclick="startTask('areca'); return false;">Chew Betel Nut 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('coca'); return false;">Chew Coca Leaves 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('dalpa'); return false;">Chew Dalpa Leaves 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('chewinggum'); return false;">Chew Gum 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('khat'); return false;">Chew Khat Leaves 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('cigarette'); return false;">Cigarette</span></div>
+<div class="task"><span class="task" onclick="startTask('cocaine'); return false;">Cocaine Insufflation 50 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('menthol'); return false;">Menthol Cigarette</span></div>
+<div class="task"><span class="task" onclick="startTask('inhaler'); return false;">Menthol Inhaler</span></div>
+<div class="task"><span class="task" onclick="startTask('inhalernicotine'); return false;">Nicotine Inhaler 2 mg</span></div>
+<div class="task"><span class="task" onclick="startTask('psilocybin'); return false;">Psilocybin Mushrooms 10 g</span></div>
+<div class="task"><span class="task" onclick="startTask('marijuana'); return false;">Reefer</span></div>
+<div class="task"><span class="task" onclick="startTask('cannabis'); return false;">Tea Cannabis 250 mL</span></div>
+</div>
+<div class="submenu" onclick="toggle('enviro');"><img class="submenu" src="images/icons/enviro.png"/>Environment</div>
+<div class="submenutasks" id="tasksenviro" style="display: none">
+<div class="task"><span class="task" onclick="startTask('professor'); return false;">Imagine Professor 5 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('immersefresh'); return false;">Immerse in Fresh Water 60 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('immersesalt'); return false;">Immerse in Salt Water 60 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('nap15'); return false;">Nap 15 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('nap'); return false;">Nap 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('nap60'); return false;">Nap 60 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('oxygen15'); return false;">Oxygen 15% 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('oxygen30'); return false;">Oxygen 30% 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('oxygen35'); return false;">Oxygen 35% 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('oxygen'); return false;">Oxygen 40% 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('book'); return false;">Read Book 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('rocking'); return false;">Rocking Chair 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('sitting'); return false;">Sit 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('sitting30'); return false;">Sit 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('freezer'); return false;">Sit at -20&deg;C 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('heat40'); return false;">Sit at 40&deg;C 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('cold'); return false;">Sit at 5&deg;C 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('petcat'); return false;">Sit with Pet Cat 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('petcroc'); return false;">Sit with Pet Crocodile 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('petdog'); return false;">Sit with Pet Dog 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('sunbathe'); return false;">Sunbathe 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('massage'); return false;">Swedish Massage 2 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('tv'); return false;">Watch Television 30 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('tv60'); return false;">Watch Television 60 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('salinity'); return false;">Water Salinity</span></div>
+</div>
+<div class="submenu" onclick="toggle('intervene');"><img class="submenu" src="images/icons/intervene.png"/>Interventions</div>
+<div class="submenutasks" id="tasksintervene" style="display: none">
+<div class="task"><span class="task" onclick="startTask('chlorine'); return false;">Chlorine Tablet 28 days</span></div>
+<div class="task"><span class="task" onclick="startTask('exerciseed'); return false;">Exercise Education 14 days</span></div>
+<div class="task"><span class="task" onclick="startTask('garden'); return false;">Garden Project 14 days</span></div>
+<div class="task"><span class="task" onclick="startTask('hands'); return false;">Hand Washing 28 days</span></div>
+<div class="task"><span class="task" onclick="startTask('healthyfood'); return false;">Healthy Food 14 days</span></div>
+<div class="task"><span class="task" onclick="startTask('keto'); return false;">Ketogenic Diet 14 days</span></div>
+<div class="task"><span class="task" onclick="startTask('socialsports'); return false;">Social Sports 14 days</span></div>
+<div class="task"><span class="task" onclick="startTask('filter'); return false;">Water Filtration 28 days</span></div>
+</div>
+<div class="submenu" onclick="toggle('food');"><img class="submenu" src="images/icons/food.png"/>Food</div>
+<div class="submenutasks" id="tasksfood" style="display: none">
+<div class="task"><span class="task" onclick="startTask('banana'); return false;">Banana 100 g</span></div>
+<div class="task"><span class="task" onclick="startTask('branflakes'); return false;">Bran Flakes 30 g</span></div>
+<div class="task"><span class="task" onclick="startTask('carrots'); return false;">Carrots 100 g</span></div>
+<div class="task"><span class="task" onclick="startTask('chocdark'); return false;">Chocolate Dark (40% cocoa) 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('chocdark70'); return false;">Chocolate Dark (70% cocoa) 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('chocdark85'); return false;">Chocolate Dark (85% cocoa) 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('chocdark99'); return false;">Chocolate Dark (99% cocoa) 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('chocmilk50'); return false;">Chocolate Milk 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('chocwhite'); return false;">Chocolate White 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('cornflakes'); return false;">Corn Flakes 30 g</span></div>
+<div class="task"><span class="task" onclick="startTask('creamcheese'); return false;">Cream Cheese 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('fries'); return false;">Fried Chips 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('liquorice'); return false;">Liquorice 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('lollies'); return false;">Lollies 50g</span></div>
+<div class="task"><span class="task" onclick="startTask('lolliessf'); return false;">Lollies Sugar-free 50g</span></div>
+<div class="task"><span class="task" onclick="startTask('oranges'); return false;">Oranges 100 g</span></div>
+<div class="task"><span class="task" onclick="startTask('pear'); return false;">Pear 100 g</span></div>
+<div class="task"><span class="task" onclick="startTask('shiitake'); return false;">Shiitake Mushrooms 10 g</span></div>
+<div class="task"><span class="task" onclick="startTask('watermelon'); return false;">Watermelon 100 g</span></div>
+<div class="task"><span class="task" onclick="startTask('bread'); return false;">White Bread 50 g</span></div>
+<div class="task"><span class="task" onclick="startTask('button'); return false;">White Button Mushroom 100 g</span></div>
+</div>
+<div class="submenu" onclick="toggle('music');"><img class="submenu" src="images/icons/music.png"/>Music</div>
+<div class="submenutasks" id="tasksmusic" style="display: none">
+<div class="task"><span class="task" onclick="startTask('musicclassical'); return false;">Classical Music 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('musiccountry'); return false;">Country Music 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('musicdance'); return false;">Dance Music 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('musicmetal'); return false;">Heavy Metal Music 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('cello'); return false;">Play Cello 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('flute'); return false;">Play Flute 10 mins</span></div>
+<div class="task"><span class="task" onclick="startTask('piano'); return false;">Play Piano 10 mins</span></div>
+</div>
+<div class="submenu" onclick="toggle('saliva');"><img class="submenu" src="images/icons/urine.png"/>Saliva Tests</div>
+<div class="submenutasks" id="taskssaliva" style="display: none">
+<div class="task"><span class="task" onclick="startTask('cortisal'); return false;">Salivary Cortisol</span></div>
+</div>
+<div class="submenu" onclick="toggle('urine');"><img class="submenu" src="images/icons/urine.png"/>Urine Tests</div>
+<div class="submenutasks" id="tasksurine" style="display: none">
+<div class="task"><span class="task" onclick="startTask('bladder'); return false;">Empty Bladder</span></div>
+<div class="task"><span class="task" onclick="startTask('creatinine'); return false;">Urine Creatinine</span></div>
+<div class="task"><span class="task" onclick="startTask('dopamine'); return false;">Urine Dopamine</span></div>
+<div class="task"><span class="task" onclick="startTask('uketone'); return false;">Urine Ketones</span></div>
+<div class="task"><span class="task" onclick="startTask('urineph'); return false;">Urine pH</span></div>
+</div>
+<div class="submenu" onclick="toggle('');"><img class="submenu" src="images/icons/misc.png"/>Miscellaneous</div>
+<div class="submenutasks" id="tasks" style="display: none">
+<div class="task"><span class="task" onclick="startTask('wound'); return false;">Examine Wounds</span></div>
+<div class="task"><span class="task" onclick="startTask('glyphosate'); return false;">Glyphosate 360 g/L</span></div>
+<div class="task"><span class="task" onclick="startTask('helium'); return false;">Helium 500 mL</span></div>
+<div class="task"><span class="task" onclick="startTask('hypothalamus'); return false;">Hypothalamic Lesion</span></div>
+<div class="task"><span class="task" onclick="startTask('lacerate'); return false;">Lacerate</span></div>
+<div class="task"><span class="task" onclick="startTask('masturbate'); return false;">Masturbate</span></div>
+<div class="task"><span class="task" onclick="startTask('radiation'); return false;">Radiation 1 Gy</span></div>
+<div class="task"><span class="task" onclick="startTask('dice20'); return false;">Roll 20 dice</span></div>
+<div class="task"><span class="task" onclick="startTask('die'); return false;">Roll a die</span></div>
+</div>
+</div>
+
+
+</div>
+
+
+
+<div id="t3" class="content_tab">
+
+<div id="conversation">
+</div>
+
+<div id="userinput" style="display: none">
+<input type="text" id="chatbox" autofocus="autofocus" autocomplete="off" size="40" maxlength="120" onkeydown="if (event.keyCode == 13) dochat();"/>
+<button type="submit" style="display: block; margin-top: 10px;" onclick="dochat();">Chat</button>
+</div>
+
+
+<p id="idetail">Sanji is unable to chat without consent.</p>
+
+</div>
+
+</div>
+
+</div>
+<script src="js/splines.js?v=2"></script>
+<script src="js/boney-data.js?v=2"></script>
+<script src="js/boney.js?v=2"></script>
+<script src="js/progress.js?v=2"></script>
+<script>
+var available = 1;
+if (typeof(Storage) == "undefined") {
+	change_tab('t1');
+} else if (sessionStorage.getItem( pageid+'tab' ) == null) {
+	change_tab('t1');
+} else {
+	change_tab( sessionStorage.getItem( pageid+'tab' ) );
+}
+
+var islander = {'eyecolour': '#946536', 'bottomcolour': '#754730', 'blink': 'ME1B', 'hair': 'MH13', 'skin': ['M', 'MH', 0.33300000000000002], 'eyes': 'ME1', 'skincolour': '#E9CABE', 'bottom': ['T2M', 'T2MH', 0.33300000000000002], 'top': ['S2M', 'S2MH', 0.33300000000000002], 'topcolour': '#8fc4df', 'happy': 'M1', 'head': 'H1M', 'hr': 0.16700000000000001, 'hw': 1.0329999999999999, 'back': 'BH2', 'haircolour': '#e6e0bd', 'sad': 'M1S', 'brows': 'EB4', 'pixels': 506.0, 'nose': 'MN2', 'ears': 'Ears1', 'glasses': 'G1'};
+islander.id = 'nmtyqrkxb5';
+islander.name = 'Sanji';
+islander.sex = 'Male';
+islander.alive = 1;
+islander.mood = 'happy';
+islander.asleep = 0;
+islander.pet = 1;
+doAnimate();
+window.orientationchange = function () { drawSkeleton() };
+window.onresize = function () { drawSkeleton() };
+</script>
+
+</body>
