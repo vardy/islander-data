@@ -23,7 +23,7 @@ class Inbound(Resource):
         Path("data/temp").mkdir(parents=True, exist_ok=True)
         with open("data/temp/" + str(id), 'w') as file:
             file.write(data)
-        return id, 200
+        return str(id), 200
 
 api.add_resource(Inbound, "/")
 
