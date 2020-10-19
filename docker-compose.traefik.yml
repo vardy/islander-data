@@ -16,6 +16,7 @@ services:
      - "traefik.http.routers.arapiles-secured.rule=Host(`islands.ibpp.me`)"
      - "traefik.http.routers.arapiles-secured.entrypoints=web-secured"
      - "traefik.http.routers.arapiles-secured.tls.certresolver=mytlschallenge"
+     - "traefik.http.services.cms.loadbalancer.server.port=3000"
 
 networks:
   web:
