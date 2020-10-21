@@ -1,0 +1,4 @@
+                None   Light   Medium   Heavy
+   Cancer        0      18       31      24      73
+   No Cancer    624     572      536     399     2131
+                624     590      567     423     2204
